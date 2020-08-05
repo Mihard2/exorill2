@@ -1,0 +1,14 @@
+0000.001 (0) Opened log file at time: Sat, 01 Aug 2020 23:58:36 +0000 on https://exorill.com
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 88.6M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 311718.6 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.030 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-08-01 23:58:36
+0000.033 (0) Semaphore (fd, wp_options) reset to 1
+0000.037 (0) Set semaphore last lock (fd) time to 2020-08-01 23:58:36
+0000.039 (0) Semaphore lock (fd) complete
+0000.049 (0) Backup run: resumption=0, nonce=c6dd47598baa, file_nonce=c6dd47598baa begun at=1596326316 (0s ago), job type=backup
+0000.055 (0) Scheduling a resumption (1) after 300 seconds (1596326616) in case this run gets aborted
+0000.072 (0) Checking if we have a zip executable available
+0000.081 (0) Creation of backups of directories: beginning
+0000.093 (0) Beginning creation of dump of plugins (split every: 400 MB)

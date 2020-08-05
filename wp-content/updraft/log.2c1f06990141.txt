@@ -1,0 +1,173 @@
+0000.001 (0) Opened log file at time: Sun, 02 Aug 2020 00:37:35 +0000 on https://exorill.com
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 88.6M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 311678.8 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.029 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-08-02 00:37:35
+0000.032 (0) Semaphore (fd, wp_options) reset to 1
+0000.035 (0) Set semaphore last lock (fd) time to 2020-08-02 00:37:35
+0000.038 (0) Semaphore lock (fd) complete
+0000.048 (0) Backup run: resumption=0, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (0s ago), job type=backup
+0000.054 (0) Scheduling a resumption (1) after 300 seconds (1596328955) in case this run gets aborted
+0000.072 (0) Checking if we have a zip executable available
+0000.080 (0) Creation of backups of directories: beginning
+0000.092 (0) Beginning creation of dump of plugins (split every: 50 MB)
+0038.736 (0) Total entities for the zip file: 1936 directories, 12438 files (0 skipped as non-modified), 169.3 MB
+0038.746 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0039.032 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 100 files added (on-disk size: 354.3 KB)
+0039.247 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 200 files added (on-disk size: 354.3 KB)
+0039.447 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 300 files added (on-disk size: 354.3 KB)
+0039.667 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 400 files added (on-disk size: 354.3 KB)
+0039.899 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 500 files added (on-disk size: 354.3 KB)
+0039.907 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.6 MB, 12438 files batched, 501 (502) added so far); re-opening (prior size: 354.3 KB)
+0040.458 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 600 files added (on-disk size: 3115.7 KB)
+0040.702 (0) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 700 files added (on-disk size: 3115.7 KB)
+0303.046 (1) Opened log file at time: Sun, 02 Aug 2020 00:42:38 +0000 on https://exorill.com
+0303.049 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 73.9M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0303.052 (1) Free space on disk containing Updraft's temporary directory: 311668.4 MB
+0303.057 (1) Backup run: resumption=1, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (303s ago), job type=backup, previous check-in=40.2s
+0303.063 (1) Scheduling a resumption (2) after 300 seconds (1596329258) in case this run gets aborted
+0303.076 (1) Checking if we have a zip executable available
+0303.078 (1) Creation of backups of directories: had begun; will resume
+0303.084 (1) Beginning creation of dump of plugins (split every: 50 MB)
+0303.093 (1) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596328696, time_now=1596328958, diff=262)
+0303.119 (1) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 502 files
+0608.004 (2) Opened log file at time: Sun, 02 Aug 2020 00:47:43 +0000 on https://exorill.com
+0608.007 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 73.9M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0608.011 (2) Free space on disk containing Updraft's temporary directory: 311665.1 MB
+0608.018 (2) Backup run: resumption=2, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (608s ago), job type=backup
+0608.025 (2) Scheduling a resumption (3) after 300 seconds (1596329563) in case this run gets aborted
+0608.039 (2) Checking if we have a zip executable available
+0608.042 (2) Creation of backups of directories: had begun; will resume
+0608.049 (2) Beginning creation of dump of plugins (split every: 50 MB)
+0608.058 (2) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596328696, time_now=1596329263, diff=567)
+0608.082 (2) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 502 files
+0647.543 (2) Total entities for the zip file: 1936 directories, 12438 files (0 skipped as non-modified), 169.3 MB
+0647.648 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 100 files added (on-disk size: 3115.7 KB)
+0647.739 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 200 files added (on-disk size: 3115.7 KB)
+0647.828 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 300 files added (on-disk size: 3115.7 KB)
+0647.918 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 400 files added (on-disk size: 3115.7 KB)
+0648.017 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 500 files added (on-disk size: 3115.7 KB)
+0648.229 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 600 files added (on-disk size: 3115.7 KB)
+0648.492 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 700 files added (on-disk size: 3115.7 KB)
+0648.784 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 800 files added (on-disk size: 3115.7 KB)
+0649.092 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 900 files added (on-disk size: 3115.7 KB)
+0649.392 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 1000 files added (on-disk size: 3115.7 KB)
+0649.404 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 12438 files batched, 501 (501) added so far); re-opening (prior size: 3115.7 KB)
+0649.851 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 1100 files added (on-disk size: 3995.8 KB)
+0650.090 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 1200 files added (on-disk size: 3995.8 KB)
+0650.334 (2) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 1300 files added (on-disk size: 3995.8 KB)
+0910.830 (3) Opened log file at time: Sun, 02 Aug 2020 00:52:46 +0000 on https://exorill.com
+0910.833 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 73.9M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0910.836 (3) Free space on disk containing Updraft's temporary directory: 311667.1 MB
+0910.842 (3) Backup run: resumption=3, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (911s ago), job type=backup, previous check-in=41.6s
+0910.849 (3) Scheduling a resumption (4) after 300 seconds (1596329866) in case this run gets aborted
+0910.862 (3) Checking if we have a zip executable available
+0910.864 (3) Creation of backups of directories: had begun; will resume
+0910.870 (3) Beginning creation of dump of plugins (split every: 50 MB)
+0910.879 (3) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329305, time_now=1596329566, diff=261)
+0910.905 (3) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+0949.712 (3) Total entities for the zip file: 1936 directories, 12438 files (0 skipped as non-modified), 169.3 MB
+0949.815 (3) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 100 files added (on-disk size: 3995.8 KB)
+0949.906 (3) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 200 files added (on-disk size: 3995.8 KB)
+0949.995 (3) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 300 files added (on-disk size: 3995.8 KB)
+0950.083 (3) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 400 files added (on-disk size: 3995.8 KB)
+1212.514 (4) Opened log file at time: Sun, 02 Aug 2020 00:57:47 +0000 on https://exorill.com
+1212.517 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 73.9M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1212.521 (4) Free space on disk containing Updraft's temporary directory: 311669.4 MB
+1212.538 (4) Backup run: resumption=4, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (1212s ago), job type=backup
+1212.545 (4) Scheduling a resumption (5) after 300 seconds (1596330167) in case this run gets aborted
+1212.558 (4) Checking if we have a zip executable available
+1212.561 (4) Creation of backups of directories: had begun; will resume
+1212.567 (4) Beginning creation of dump of plugins (split every: 50 MB)
+1212.576 (4) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329605, time_now=1596329867, diff=262)
+1212.601 (4) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+1517.127 (5) Opened log file at time: Sun, 02 Aug 2020 01:02:52 +0000 on https://exorill.com
+1517.130 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1517.134 (5) Free space on disk containing Updraft's temporary directory: 311647.5 MB
+1517.140 (5) Backup run: resumption=5, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (1517s ago), job type=backup
+1517.146 (5) Scheduling a resumption (6) after 300 seconds (1596330472) in case this run gets aborted
+1517.159 (5) Checking if we have a zip executable available
+1517.162 (5) Creation of backups of directories: had begun; will resume
+1517.168 (5) Beginning creation of dump of plugins (split every: 50 MB)
+1517.177 (5) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329605, time_now=1596330172, diff=567)
+1517.204 (5) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+1828.146 (6) Opened log file at time: Sun, 02 Aug 2020 01:08:03 +0000 on https://exorill.com
+1828.149 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1828.151 (6) Free space on disk containing Updraft's temporary directory: 311645.1 MB
+1828.156 (6) Backup run: resumption=6, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (1828s ago), job type=backup
+1828.161 (6) Scheduling a resumption (7) after 300 seconds (1596330783) in case this run gets aborted
+1828.171 (6) Checking if we have a zip executable available
+1828.174 (6) Creation of backups of directories: had begun; will resume
+1828.179 (6) Beginning creation of dump of plugins (split every: 50 MB)
+1828.188 (6) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329605, time_now=1596330483, diff=878)
+1828.214 (6) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+2133.234 (7) Opened log file at time: Sun, 02 Aug 2020 01:13:08 +0000 on https://exorill.com
+2133.237 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2133.240 (7) Free space on disk containing Updraft's temporary directory: 311642.9 MB
+2133.245 (7) Backup run: resumption=7, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (2133s ago), job type=backup
+2133.250 (7) Scheduling a resumption (8) after 300 seconds (1596331088) in case this run gets aborted
+2133.260 (7) Checking if we have a zip executable available
+2133.263 (7) Creation of backups of directories: had begun; will resume
+2133.268 (7) Beginning creation of dump of plugins (split every: 50 MB)
+2133.277 (7) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329605, time_now=1596330788, diff=1183)
+2133.306 (7) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+2438.252 (8) Opened log file at time: Sun, 02 Aug 2020 01:18:13 +0000 on https://exorill.com
+2438.255 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 10M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2438.258 (8) Free space on disk containing Updraft's temporary directory: 311639.6 MB
+2438.263 (8) Backup run: resumption=8, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (2438s ago), job type=backup
+2438.267 (8) Scheduling a resumption (9) after 300 seconds (1596331393) in case this run gets aborted
+2438.278 (8) Checking if we have a zip executable available
+2438.281 (8) Creation of backups of directories: had begun; will resume
+2438.287 (8) Beginning creation of dump of plugins (split every: 50 MB)
+2438.295 (8) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329605, time_now=1596331093, diff=1488)
+2438.324 (8) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+2743.605 (9) Opened log file at time: Sun, 02 Aug 2020 01:23:19 +0000 on https://exorill.com
+2743.608 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 76M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2743.610 (9) Free space on disk containing Updraft's temporary directory: 311638.2 MB
+2743.615 (9) Backup run: resumption=9, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (2744s ago), job type=backup
+2743.620 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 2) - will not schedule a further attempt until we see something useful happening this time
+2743.624 (9) Scheduling a resumption (10) after 300 seconds (1596331699); but the job will then be aborted unless something happens this time
+2743.635 (9) Creation of backups of directories: had begun; will resume
+2743.641 (9) Beginning creation of dump of plugins (split every: 50 MB)
+2743.649 (9) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596329605, time_now=1596331399, diff=1794)
+2743.677 (9) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1003 files
+2786.261 (9) Total entities for the zip file: 1944 directories, 12464 files (0 skipped as non-modified), 169.7 MB
+2786.280 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (1) files added so far); re-opening (prior size: 3995.8 KB)
+2786.488 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 100 files added (on-disk size: 4135 KB)
+2786.585 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 200 files added (on-disk size: 4135 KB)
+2786.680 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 300 files added (on-disk size: 4135 KB)
+2786.778 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 400 files added (on-disk size: 4135 KB)
+2786.879 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 500 files added (on-disk size: 4135 KB)
+2786.984 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 600 files added (on-disk size: 4135 KB)
+2787.090 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 700 files added (on-disk size: 4135 KB)
+2787.215 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 800 files added (on-disk size: 4135 KB)
+2787.360 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 900 files added (on-disk size: 4135 KB)
+2787.504 (9) Zip: backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: 1000 files added (on-disk size: 4135 KB)
+3047.991 (10) Opened log file at time: Sun, 02 Aug 2020 01:28:23 +0000 on https://exorill.com
+3047.993 (10) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+3047.996 (10) Free space on disk containing Updraft's temporary directory: 311636.3 MB
+3048.001 (10) Backup run: resumption=10, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (3048s ago), job type=backup, previous check-in=42.7s
+3048.009 (10) Scheduling a resumption (11) after 300 seconds (1596332003) in case this run gets aborted
+3048.019 (10) Creation of backups of directories: had begun; will resume
+3048.025 (10) Beginning creation of dump of plugins (split every: 50 MB)
+3048.033 (10) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596331443, time_now=1596331703, diff=260)
+3048.059 (10) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1004 files
+3352.957 (11) Opened log file at time: Sun, 02 Aug 2020 01:33:28 +0000 on https://exorill.com
+3352.960 (11) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+3352.964 (11) Free space on disk containing Updraft's temporary directory: 311635.3 MB
+3352.970 (11) Backup run: resumption=11, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (3353s ago), job type=backup
+3352.976 (11) The current run is resumption number 11, and there was nothing useful done on the last run (last useful run: 9) - will not schedule a further attempt until we see something useful happening this time
+3352.983 (11) Scheduling a resumption (12) after 300 seconds (1596332308); but the job will then be aborted unless something happens this time
+3352.995 (11) Creation of backups of directories: had begun; will resume
+3353.001 (11) Beginning creation of dump of plugins (split every: 50 MB)
+3353.016 (11) File exists (C:\www\exorill/wp-content/updraft/backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1596331443, time_now=1596332008, diff=565)
+3353.042 (11) backup_2020-08-01-1737_Faucet_Water_Filter_2c1f06990141-plugins.zip.tmp: Zip file already exists, with 1004 files
+3658.137 (12) Opened log file at time: Sun, 02 Aug 2020 01:38:33 +0000 on https://exorill.com
+3658.142 (12) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 74M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+3658.145 (12) Free space on disk containing Updraft's temporary directory: 311633.9 MB
+3658.152 (12) Backup run: resumption=12, nonce=2c1f06990141, file_nonce=2c1f06990141 begun at=1596328655 (3658s ago), job type=backup
+3658.159 (12) [Updraftplus] The backup is being aborted for a repeated failure to progress.
+3658.163 (12) An error condition has occurred for the first time during this job
+3658.166 (12) No email will/can be sent - the user has not configured an email address.
+3658.169 (12) The backup attempt has finished, apparently unsuccessfully

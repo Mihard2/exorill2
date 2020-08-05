@@ -1,0 +1,18 @@
+{
+    "require": {
+        "lukesnowden/google-shopping-feed": "^2.0",
+        "johnbillion/extended-cpts": "^3.0",
+        "philipnewcomer/wp-ajax-helper": "^1.0",
+        "a5hleyrich/wp-background-processing": "^1.0",
+        "google/apiclient": "^2.2",
+        "appsero/client": "^1.1"
+    },
+    "autoload": {
+        "classmap": ["admin/"],
+        "files": [
+            "vendor/johnbillion/extended-cpts/extended-cpts.php",
+            "includes/cmb2/init.php",
+            "includes/cmb2-conditionals/cmb2-conditionals.php"
+        ]
+    }
+}

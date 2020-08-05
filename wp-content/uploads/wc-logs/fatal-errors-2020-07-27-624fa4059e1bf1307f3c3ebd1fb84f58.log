@@ -1,0 +1,26 @@
+2020-07-27T20:13:23+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') in C:\www\exorill\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-27T20:14:05+00:00 CRITICAL Uncaught Error: Class 'Jetpack_Options' not found in C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php:2154
+Stack trace:
+#0 C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php(702): Jetpack::get_option('edit_links_caly...')
+#1 C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php(403): Jetpack->__construct()
+#2 C:\www\exorill\wp-content\plugins\jetpack\load-jetpack.php(89): Jetpack::init()
+#3 C:\www\exorill\wp-content\plugins\jetpack\jetpack.php(149): require_once('C:\\www\\exorill\\...')
+#4 C:\www\exorill\wp-admin\includes\plugin.php(659): include_once('C:\\www\\exorill\\...')
+#5 C:\www\exorill\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Plugins.php(419): activate_plugin('jetpack/jetpack...')
+#6 C:\www\exorill\wp-includes\rest-api\class-wp-rest-server.php(1015): Automattic\WooCommerce\Admin\API\Plugins->activate_plugins(Object(WP_REST_Request))
+#7 C:\www\exorill\wp-includes\rest-api\class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+ in C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php on line 2154
+
+2020-07-27T20:14:24+00:00 CRITICAL Uncaught Error: Class 'Jetpack_Options' not found in C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php:2154
+Stack trace:
+#0 C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php(702): Jetpack::get_option('edit_links_caly...')
+#1 C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php(403): Jetpack->__construct()
+#2 C:\www\exorill\wp-content\plugins\jetpack\load-jetpack.php(89): Jetpack::init()
+#3 C:\www\exorill\wp-content\plugins\jetpack\jetpack.php(149): require_once('C:\\www\\exorill\\...')
+#4 C:\www\exorill\wp-admin\includes\plugin.php(659): include_once('C:\\www\\exorill\\...')
+#5 C:\www\exorill\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Plugins.php(419): activate_plugin('jetpack/jetpack...')
+#6 C:\www\exorill\wp-includes\rest-api\class-wp-rest-server.php(1015): Automattic\WooCommerce\Admin\API\Plugins->activate_plugins(Object(WP_REST_Request))
+#7 C:\www\exorill\wp-includes\rest-api\class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+ in C:\www\exorill\wp-content\plugins\jetpack\class.jetpack.php on line 2154
+

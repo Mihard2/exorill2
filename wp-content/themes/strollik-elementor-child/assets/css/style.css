@@ -1,0 +1,17 @@
+.single-product div.product .entry-summary:before{
+    background: #ffffff !important;
+}
+.single-product div.product form.cart .quantity label {
+    display:none;
+}
+.single-product div.product .summary{
+    margin-bottom:0px;
+}
+.woocommerce-tabs{
+    margin-bottom: 30px;
+}
+.woocommerce-Tabs-panel--related_product section.related{
+    margin-top:0px;
+    padding-top:0px;
+    border-top:none;
+}

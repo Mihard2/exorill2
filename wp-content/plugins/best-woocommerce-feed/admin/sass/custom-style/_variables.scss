@@ -1,0 +1,22 @@
+$primary-color: #1fb3fb;
+$body-font-color : #444444;
+
+
+//************************************************
+//[Responsive Stylesheet]
+//*************************************************/
+
+$device_1600_1699 : '(max-width: 1699px)';//*--media query 1600-1699px--*/
+
+$device_1400_1599 : '(max-width: 1599px)'; //*--media query 1400-1599px--*/
+
+$device_1200_1399 : '(max-width: 1399px)'; //*--media query 1200-1399px--*/
+
+$device_992_1199 : '(max-width: 1199px)'; //*--media query 992-1199px--*/
+
+$device_768_991 : '(max-width: 991px)'; //*--media query 768-991px--*/
+
+$device_576_767 : '(max-width: 767px)'; //*--media query 576-767px--*/
+
+$device_0_575 : '(max-width: 575px)'; //*--media query 0-575px--*/
+

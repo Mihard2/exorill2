@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Basic were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://exorill.com
+Data file = C:\www\exorill\wp-content\plugins\strollik-core/dummy-data/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

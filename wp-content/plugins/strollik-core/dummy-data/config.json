@@ -1,0 +1,237 @@
+{
+    "10": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/10/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/10/niche_10_slider_watch.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/10/niche_10_tech_specs.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/10/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/10/content.xml",
+        "name": "Watch Product"
+    },
+    "11": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/11/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/11/niche_11_slider_smartbottle.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/11/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/11/content.xml",
+        "name": "Smartbottle Product"
+    },
+    "12": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/12/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/12/niche_12_slide_ochair.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/12/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/12/content.xml",
+        "name": "Ochair Product"
+    },
+    "13": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/13/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/13/niche_13_slider_home_smartband.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/13/niches_13_smartband_2.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/13/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/13/content.xml",
+        "name": "Smartband Product"
+    },
+    "14": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/14/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/14/before-after.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/14/niche_14_add_to_cart.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/14/niche_14_smartcamera.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/14/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/14/content.xml",
+        "name": "Camera Product"
+    },
+    "15": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/15/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/15/niches_15_portablespeaker_2.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/15/niches_15_portablespeaker3.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/15/niches_15_slider_portablespeaker.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/15/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/15/content.xml",
+        "name": "Speaker Product"
+    },
+    "16": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/16/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/16/niches_16_remotecontrol.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/16/niches_16_remotecontrol2.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/16/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/16/content.xml",
+        "name": "Remotecontrol Product"
+    },
+    "17": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/17/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/17/niche_17_slider_bikey.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/17/niches_17_bikey2.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/17/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/17/content.xml",
+        "name": "Biker Product"
+    },
+    "18": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/18/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/18/niches_18_chargerdock.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/18/niches_18_chargerdock2.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/18/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/18/content.xml",
+        "name": "Charger Dock Product"
+    },
+    "19": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/19/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/19/niches_19_headfone.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/19/niches_19_headfone2.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/19/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/19/content.xml",
+        "name": "Headphone Product"
+    },
+    "20": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/20/settings.json",
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/20/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/20/content.xml",
+        "name": "Powerbank Product"
+    },
+    "21": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/21/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/21/niches_21_smarthelmet.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/21/niches_21_smarthelmet2.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/21/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/21/content.xml",
+        "name": "Smart Helmet Product"
+    },
+    "22": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/22/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/22/niches_22_smartlight.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/22/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/22/content.xml",
+        "name": "Smartlight Product"
+    },
+    "23": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/23/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/23/niches_23_massager2.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/23/niches_23_smartmassager1.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/23/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/23/content.xml",
+        "name": "Smartmassager Product"
+    },
+    "24": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/24/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/24/niches_24_vacuumleaner.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/24/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/24/content.xml",
+        "name": "Vacuumcleaner Product"
+    },
+    "01": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/01/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/01/niche_01_design_strollik.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/01/niche_01_elements_strollik.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/01/niche_01_slider_strollik.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/01/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/01/content.xml",
+        "name": "Stroller Product"
+    },
+    "02": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/02/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/02/niche_02_slide-coffeemaker.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/02/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/02/content.xml",
+        "name": "Coffee Maker Product"
+    },
+    "03": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/03/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/03/niche_03_dronik_slide_2.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/03/niche_03_home_dronik.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/03/niche_03_tabs.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/03/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/03/content.xml",
+        "name": "Drone Product"
+    },
+    "04": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/04/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/04/niche_04_slider_ebag.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/04/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/04/content.xml",
+        "name": "E-Bag Product"
+    },
+    "05": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/05/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/05/niche_05_slide_drink_tab.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/05/niche_05_slider_energydrink.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/05/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/05/content.xml",
+        "name": "Enery Drink Product"
+    },
+    "06": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/06/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/06/niche_06_dimensions.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/06/niche_06_slide_eshaver.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/06/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/06/content.xml",
+        "name": "Shaver Product"
+    },
+    "07": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/07/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/07/niche_07_slider_eskateboard.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/07/slider_carousel.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/07/testdefault.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/07/thanh_test.zip",
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/07/trungthanh.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/07/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/07/content.xml",
+        "name": "Skateboard Product"
+    },
+    "08": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/08/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/08/niche_08_slider-slimwallet.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/08/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/08/content.xml",
+        "name": "Wallet Product"
+    },
+    "09": {
+        "settings": "http://source.wpopal.com/strollik/dummy_data/niches/09/settings.json",
+        "rev_sliders": [
+            "http://source.wpopal.com/strollik/dummy_data/revsliders/09/niches_09_smartglasse.zip"
+        ],
+        "screenshot": "http://source.wpopal.com/strollik/dummy_data/niches/09/screenshot.jpg",
+        "xml": "http://source.wpopal.com/strollik/dummy_data/niches/09/content.xml",
+        "name": "Smart Glasses Product"
+    }
+}

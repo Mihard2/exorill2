@@ -1,0 +1,1014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Products Feed for WooCoommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-04 07:18+0000\n"
+"PO-Revision-Date: 2020-06-05 11:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: admin/class-rex-google-merchant-content-api.php:96
+#: admin/class-rex-google-merchant-content-api.php:135
+msgid "You are not authorized."
+msgstr "Usted no está autorizado."
+
+#: admin/class-rex-google-merchant-content-api.php:97
+#: admin/class-rex-google-merchant-content-api.php:136
+msgid ""
+"Your access token has expired. This application uses OAuth 2.0 to Access "
+"Google APIs. Please insert the information below and authenticate token for "
+"Google Merchant Shop. Generated access token expires after 3600 sec."
+msgstr ""
+"Su token de acceso ha caducado. Esta aplicación utiliza OAuth 2.0 para "
+"acceder a las API de Google. Por favor, inserte la siguiente información y "
+"autentique el token para Google Merchant Shop El token de acceso generado "
+"expira después de 3600 seg."
+
+#: admin/class-rex-google-merchant-content-api.php:108
+msgid "You are authorized."
+msgstr "Usted está autorizado."
+
+#: admin/class-rex-google-merchant-content-api.php:109
+#, fuzzy
+#| "You are now ready to send feed from WooCommerce Product Feed Manager to "
+#| "your Google Merchant Center. 🚀"
+msgid ""
+"You are now ready to send feed from WooCommerce Product Feed Manager to your "
+"Google Merchant Center. "
+msgstr ""
+"Ahora está listo para enviar noticias de WooCommerce Product Feed Manager a "
+"su Google Merchant Center. 🚀"
+
+#: admin/class-rex-product-data-retriever.php:110
+msgid "Start product processing."
+msgstr "Comience el procesamiento del producto."
+
+#: admin/class-rex-product-data-retriever.php:122
+msgid "End product processing."
+msgstr "Procesamiento del producto final."
+
+#: admin/class-rex-product-feed-admin.php:304
+msgid "Leave a review?"
+msgstr "¿Dejar un comentario?"
+
+#: admin/class-rex-product-feed-admin.php:305
+msgid ""
+"Hey, I noticed you are using WC product feed manager for over two weeks – "
+"that’s awesome! Could you please do me a BIG favor and give it a 5-star "
+"rating on WordPress? Just to help us spread the word and boost our "
+"motivation."
+msgstr ""
+"Oye, me di cuenta de que estás usando el administrador de feeds de productos "
+"de WC durante más de dos semanas. ¡Eso es increíble! ¿Podría por favor "
+"hacerme un GRAN favor y darle una calificación de 5 estrellas en WordPress? "
+"Solo para ayudarnos a difundir la palabra y aumentar nuestra motivación."
+
+#: admin/class-rex-product-feed-admin.php:309
+msgid "Ok, you deserve it"
+msgstr ""
+"Ok te lo mereces\n"
+
+#: admin/class-rex-product-feed-admin.php:313
+msgid "Nope, maybe later."
+msgstr "No, tal vez más tarde."
+
+#: admin/class-rex-product-feed-admin.php:317
+msgid "I already did."
+msgstr "Ya lo hice."
+
+#: admin/class-rex-product-feed-admin.php:320
+msgid "Dismiss this notice."
+msgstr ""
+"Descartar este aviso.\n"
+
+#: admin/class-rex-product-feed-admin.php:383
+msgid "Category Mapping"
+msgstr ""
+"Mapeo de Categoría\n"
+
+#: admin/class-rex-product-feed-admin.php:384
+msgid "Google Merchant Settings"
+msgstr "Configuración de Google Merchant"
+
+#: admin/class-rex-product-feed-admin.php:385
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: admin/class-rex-product-feed-admin.php:386
+#: admin/partials/on_boarding.php:242
+msgid "Support"
+msgstr "Apoyo"
+
+#: admin/class-rex-product-feed-admin.php:390
+#: admin/class-rex-product-feed-admin.php:445
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: admin/class-rex-product-feed-admin.php:443
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: admin/class-rex-product-feed-admin.php:460
+msgid "View WPFM Documentation"
+msgstr "Ver la documentación de WPFM"
+
+#: admin/class-rex-product-feed-admin.php:460
+msgid "Docs & FAQs"
+msgstr "Documentos y preguntas frecuentes"
+
+#: admin/class-rex-product-feed-admin.php:786
+msgid "Referrer"
+msgstr "Referencia"
+
+#: admin/class-rex-product-feed-admin.php:794
+msgid "The referrer: (e.g. google, newsletter)"
+msgstr "El referente: (por ejemplo, google, boletín informativo)"
+
+#: admin/class-rex-product-feed-admin.php:797
+msgid "Medium"
+msgstr "Medio"
+
+#: admin/class-rex-product-feed-admin.php:805
+msgid "Marketing medium: (e.g. cpc, banner, email)"
+msgstr "Medio de marketing: (por ejemplo, cpc, banner, correo electrónico)"
+
+#: admin/class-rex-product-feed-admin.php:809
+msgid "Campaign"
+msgstr "Campaña"
+
+#: admin/class-rex-product-feed-admin.php:817
+msgid "Product, promo code, or slogan (e.g. spring_sale)"
+msgstr "Producto, código promocional o eslogan (por ejemplo, spring_sale)"
+
+#: admin/class-rex-product-feed-admin.php:820
+msgid "Campaign term"
+msgstr "Plazo de la campaña"
+
+#: admin/class-rex-product-feed-admin.php:828
+msgid "Identify the paid keywords"
+msgstr "Identificar las palabras clave pagas"
+
+#: admin/class-rex-product-feed-admin.php:832
+msgid "Campaign content"
+msgstr "Contenido de la campaña"
+
+#: admin/class-rex-product-feed-admin.php:840
+msgid "Use to differentiate ads"
+msgstr "Use para diferenciar anuncios"
+
+#: admin/class-rex-product-feed-cpt.php:115
+msgid "Total products : "
+msgstr "Productos totales:"
+
+#: admin/class-rex-product-feed-cpt.php:116
+msgid "Simple products : "
+msgstr "Productos simples:"
+
+#: admin/class-rex-product-feed-cpt.php:117
+msgid "Variable parent : "
+msgstr "Padre variable:"
+
+#: admin/class-rex-product-feed-cpt.php:118
+msgid "Variations : "
+msgstr "Variaciones:"
+
+#: admin/class-rex-product-feed-cpt.php:119
+msgid "Group products : "
+msgstr "Productos grupales:"
+
+#: admin/class-rex-product-feed-factory.php:219
+msgid "Invalid Merchant."
+msgstr "Comerciante inválido."
+
+#: admin/class-rex-product-feed-metabox.php:40
+#: admin/class-rex-product-feed-metabox.php:47
+msgid "Products"
+msgstr "Productos"
+
+#: admin/class-rex-product-feed-metabox.php:48
+msgid "Select products to create feed for."
+msgstr ""
+"Seleccione los productos para crear el feed.\n"
+
+#: admin/class-rex-product-feed-metabox.php:54
+msgid "All Published Products"
+msgstr ""
+"\n"
+"Todos los productos publicados"
+
+#: admin/class-rex-product-feed-metabox.php:55
+msgid "Custom Filter"
+msgstr ""
+"Filtro personalizado\n"
+
+#: admin/class-rex-product-feed-metabox.php:56
+msgid "Category Filter"
+msgstr ""
+"Filtro de categoría\n"
+
+#: admin/class-rex-product-feed-metabox.php:57
+msgid "Tag Filter"
+msgstr ""
+"Filtro de etiqueta\n"
+
+#: admin/class-rex-product-feed-metabox.php:107
+msgid "Refresh Interval"
+msgstr "Actualizar intervalo"
+
+#: admin/class-rex-product-feed-metabox.php:108
+msgid "Feed Schedule Update"
+msgstr "Actualización del horario de alimentación"
+
+#: admin/class-rex-product-feed-metabox.php:112
+msgid "No Interval"
+msgstr "Sin intervalo"
+
+#: admin/class-rex-product-feed-metabox.php:113
+msgid "Daily"
+msgstr ""
+"\n"
+"Diario"
+
+#: admin/class-rex-product-feed-metabox.php:114
+#: admin/class-rex-product-feed-metabox.php:700
+msgid "Hourly"
+msgstr "Cada hora"
+
+#: admin/class-rex-product-feed-metabox.php:125
+msgid "Include Variable Parent Product"
+msgstr "Incluir producto principal variable"
+
+#: admin/class-rex-product-feed-metabox.php:126
+msgid "Include/Exclude Parent Variable Product"
+msgstr "Incluir / excluir producto variable principal"
+
+#: admin/class-rex-product-feed-metabox.php:130
+#: admin/class-rex-product-feed-metabox.php:146
+#: admin/class-rex-product-feed-metabox.php:163
+#: admin/class-rex-product-feed-metabox.php:179
+#: admin/class-rex-product-feed-metabox.php:195
+msgid "Yes"
+msgstr ""
+"\n"
+"Sí"
+
+#: admin/class-rex-product-feed-metabox.php:131
+#: admin/class-rex-product-feed-metabox.php:147
+#: admin/class-rex-product-feed-metabox.php:164
+#: admin/class-rex-product-feed-metabox.php:180
+#: admin/class-rex-product-feed-metabox.php:196
+msgid "No"
+msgstr ""
+"\n"
+"No"
+
+#: admin/class-rex-product-feed-metabox.php:141
+msgid "Include Product Variations"
+msgstr ""
+"\n"
+"Incluir variaciones de producto"
+
+#: admin/class-rex-product-feed-metabox.php:142
+msgid "Include/Exclude Products Variations"
+msgstr ""
+"\n"
+"Incluir / Excluir variaciones de productos"
+
+#: admin/class-rex-product-feed-metabox.php:158
+msgid "Include variation product name"
+msgstr "Incluir variación del nombre del producto"
+
+#: admin/class-rex-product-feed-metabox.php:159
+msgid ""
+"It will add the all the variation name on product title. Will be applicable "
+"if there are more than two variation atrributes of a product."
+msgstr ""
+"Agregará todo el nombre de la variación en el título del producto. Será "
+"aplicable si hay más de dos variaciones de atributos de un producto."
+
+#: admin/class-rex-product-feed-metabox.php:174
+msgid "Include Parent Product (Grouped Product)"
+msgstr ""
+"\n"
+"Incluir producto principal (producto agrupado)"
+
+#: admin/class-rex-product-feed-metabox.php:175
+msgid "Include/Exclude Parent Product"
+msgstr "Incluir / Excluir producto principal"
+
+#: admin/class-rex-product-feed-metabox.php:190
+#: admin/class-rex-product-feed-metabox.php:191
+msgid "Exclude invisible/hidden products"
+msgstr "Excluir productos invisibles / ocultos"
+
+#: admin/class-rex-product-feed-metabox.php:205
+msgid "Analytics parameters"
+msgstr "Parámetros analíticos"
+
+#: admin/class-rex-product-feed-metabox.php:206
+msgid "Check to activate utm params"
+msgstr "Marque para activar los parámetros de utm"
+
+#: admin/class-rex-product-feed-metabox.php:212
+msgid "Parameters"
+msgstr "Parámetros"
+
+#: admin/class-rex-product-feed-metabox.php:303
+msgid "Please select merchant"
+msgstr "Por favor seleccione comerciante"
+
+#: admin/class-rex-product-feed-metabox.php:334
+msgid "Feed Configuration"
+msgstr "Configuración de alimentación"
+
+#: admin/class-rex-product-feed-metabox.php:339
+msgid "Merchant Type"
+msgstr ""
+"Tipo de comerciante\n"
+
+#: admin/class-rex-product-feed-metabox.php:340
+msgid "Select Merchant Type of the Feed."
+msgstr ""
+"Seleccione el tipo de comerciante de la alimentación.\n"
+
+#: admin/class-rex-product-feed-metabox.php:351
+msgid "File Format"
+msgstr ""
+"Formato de archivo\n"
+
+#: admin/class-rex-product-feed-metabox.php:352
+msgid "Select Format of the Feed."
+msgstr "Seleccione el formato de la alimentación."
+
+#: admin/class-rex-product-feed-metabox.php:356
+msgid "XML"
+msgstr "XML"
+
+#: admin/class-rex-product-feed-metabox.php:357
+msgid "TEXT"
+msgstr "TEXTO"
+
+#: admin/class-rex-product-feed-metabox.php:358
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/class-rex-product-feed-metabox.php:359
+msgid "JSON (Only for Zalando)"
+msgstr "JSON (solo para Zalando)"
+
+#: admin/class-rex-product-feed-metabox.php:524
+msgid "Add New Attribute"
+msgstr "Añadir nuevo atributo"
+
+#: admin/class-rex-product-feed-metabox.php:525
+msgid "Add New Custom Attribute"
+msgstr "Agregar nuevo atributo personalizado"
+
+#: admin/class-rex-product-feed-metabox.php:557
+msgid "Add New Filter"
+msgstr "Añadir nuevo filtro"
+
+#: admin/class-rex-product-feed-metabox.php:573
+msgid "Feed URL"
+msgstr "URL para el canal"
+
+#: admin/class-rex-product-feed-metabox.php:580
+msgid "Your Feed URL"
+msgstr ""
+"Su URL de fuente\n"
+
+#: admin/class-rex-product-feed-metabox.php:601
+msgid "Why upgrade to Premium Version?"
+msgstr "¿Por qué actualizar a la versión Premium?"
+
+#: admin/class-rex-product-feed-metabox.php:623
+msgid "Supports more than 50 products."
+msgstr "Soporta más de 50 productos."
+
+#: admin/class-rex-product-feed-metabox.php:624
+msgid "Access to a elite support team."
+msgstr "Acceso a un equipo de soporte de élite."
+
+#: admin/class-rex-product-feed-metabox.php:625
+msgid "Supports YITH brand attributes."
+msgstr "Admite atributos de marca YITH."
+
+#: admin/class-rex-product-feed-metabox.php:626
+msgid "Dynamic Attribute."
+msgstr "Atributo Dinámico."
+
+#: admin/class-rex-product-feed-metabox.php:627
+msgid ""
+"Custom field support - Brand,GTIN,MPN,UPC,EAN,Size, Pattern, Material, Age "
+"Group, Gender."
+msgstr ""
+"Soporte de campo personalizado: marca, GTIN, MPN, UPC, EAN, tamaño, patrón, "
+"material, grupo de edad, género."
+
+#: admin/class-rex-product-feed-metabox.php:628
+msgid "Fix WooCommerce's (JSON-LD) structure data bug"
+msgstr "Repara el error de datos de estructura de WooCommerce (JSON-LD)"
+
+#: admin/class-rex-product-feed-metabox.php:646
+msgid "View Feed"
+msgstr ""
+"Ver Feed\n"
+
+#: admin/class-rex-product-feed-metabox.php:648
+msgid "Download Feed"
+msgstr "Descargar Feed"
+
+#: admin/class-rex-product-feed-metabox.php:664
+msgid "Send to Google Merchant"
+msgstr "Enviar a Google Merchant"
+
+#: admin/class-rex-product-feed-metabox.php:672
+msgid "Target Country"
+msgstr "País de destino"
+
+#: admin/class-rex-product-feed-metabox.php:683
+msgid "Target Language"
+msgstr "Lengua de llegada"
+
+#: admin/class-rex-product-feed-metabox.php:693
+msgid "Schedule"
+msgstr ""
+"\n"
+"Programar"
+
+#: admin/class-rex-product-feed-metabox.php:698
+msgid "Monthly"
+msgstr "Mensual"
+
+#: admin/class-rex-product-feed-metabox.php:699
+msgid "Weekly"
+msgstr "Semanal"
+
+#: admin/class-rex-product-feed-metabox.php:708
+msgid "Select day of month"
+msgstr ""
+"\n"
+"Seleccione el día del mes"
+
+#: admin/class-rex-product-feed-metabox.php:720
+msgid "Select day of week"
+msgstr ""
+"\n"
+"Seleccione el día de la semana"
+
+#: admin/class-rex-product-feed-metabox.php:740
+msgid "Select Hour"
+msgstr "Seleccione la hora"
+
+#: admin/class-rex-product-feed-metabox.php:756
+msgid ""
+"<p class=\"google-desc\">Please note that Google has fixed abbreviations for "
+"Location and Language. For example, the abbreviation for target location, "
+"United States is US and the abbreviation for language, English is en. <a "
+"href=\"https://rextheme.com/google-country-codes-list/\" target=\"_blank\">"
+"Click here</a> to see the list of all abbreviations set by Google.</p>"
+msgstr ""
+"<p class = \"google-desc\"> Tenga en cuenta que Google ha corregido las "
+"abreviaturas de Ubicación e Idioma. Por ejemplo, la abreviatura de ubicación "
+"de destino, Estados Unidos es EE. UU. Y la abreviatura de idioma inglés es "
+"en. <a href=\"https://rextheme.com/google-country-codes-list/\" "
+"target=\"_blank\"> Haga clic aquí </a> para ver la lista de todas las "
+"abreviaturas establecidas por Google. </p>"
+
+#: admin/class-rex-product-feed-metabox.php:782
+#, fuzzy
+#| "Oops!! Access token has expired.Please authenticate token for Google "
+#| "Merchant Shop to be able to send feed."
+msgid ""
+"Oops!! Access token has expired 😕. Please authenticate token for Google "
+"Merchant Shop to be able to send feed."
+msgstr ""
+"Ups! El token de acceso ha caducado. Autentique el token para que Google "
+"Merchant Shop pueda enviar feeds."
+
+#: admin/class-rex-product-feed-metabox.php:784
+msgid "Authenticate"
+msgstr "Autenticar"
+
+#: admin/class-rex-product-feed-metabox.php:789
+msgid "Send to google merchant"
+msgstr "Enviar a google comerciante"
+
+#: admin/class-rex-product-feed-notices.php:37
+msgid "Product Feed"
+msgstr "Alimentación del producto"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:368
+msgid "Start feed processing job by cron"
+msgstr "Iniciar trabajo de procesamiento de feed por cron"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:378
+msgid "Start feed processing job."
+msgstr "Comience el trabajo de procesamiento de alimentación."
+
+#: admin/feed/abstract-rex-product-feed-generator.php:1005
+msgid "Completed feed generation job."
+msgstr "Trabajo de generación de alimento completado."
+
+#: admin/partials/category_mapping.php:46
+msgid "Update"
+msgstr "Actualizar"
+
+#: admin/partials/category_mapping.php:47
+msgid "Delete"
+msgstr "Eliminar"
+
+#: admin/partials/category_mapping.php:57
+msgid "Please update WPFM database"
+msgstr "Por favor actualice la base de datos WPFM"
+
+#: admin/partials/category_mapping.php:70
+msgid "Add New Category Map"
+msgstr "Agregar nuevo mapa de categoría"
+
+#: admin/partials/category_mapping.php:74
+msgid "Mapper Name"
+msgstr "Nombre del mapeador"
+
+#: admin/partials/category_mapping.php:87
+msgid "Save"
+msgstr "Salvar"
+
+#: admin/partials/database-update-notice.php:6
+msgid "WPFM Database Update Notice"
+msgstr "Aviso de actualización de la base de datos de WPFM"
+
+#: admin/partials/database-update-notice.php:10
+msgid ""
+"WooCommerce Product Feed Manager is getting better and now, has an updated "
+"data structure for it to run smoothly. Click on update now to get the latest "
+"data structure for WPFM. None of your data will be changed/removed, only "
+"WPFM data will be restructured for better outcome."
+msgstr ""
+"El Administrador de feeds de productos de WooCommerce está mejorando y ahora "
+"tiene una estructura de datos actualizada para que funcione sin problemas. "
+"Haga clic en actualizar ahora para obtener la última estructura de datos "
+"para WPFM. Ninguno de sus datos será cambiado / eliminado, solo los datos de "
+"WPFM serán reestructurados para un mejor resultado."
+
+#: admin/partials/database-update-notice.php:11
+msgid ""
+"The database update process runs in the background and may take a little "
+"while, so please be patient."
+msgstr ""
+"El proceso de actualización de la base de datos se ejecuta en segundo plano "
+"y puede demorar un poco, así que tenga paciencia."
+
+#: admin/partials/database-update-notice.php:17
+msgid "Update WPFM Database"
+msgstr "Actualizar la base de datos WPFM"
+
+#: admin/partials/database-update-running-notice.php:6
+msgid "Update in progress…."
+msgstr "Actualización en progreso…."
+
+#: admin/partials/database-update-running-notice.php:10
+msgid "It will run in the background while you can continue browsing."
+msgstr "Se ejecutará en segundo plano mientras puede continuar navegando."
+
+#: admin/partials/feed-config-metabox-display-filter.php:36
+msgid "If"
+msgstr "Si"
+
+#: admin/partials/feed-config-metabox-display-filter.php:37
+msgid "Condition"
+msgstr "Condición"
+
+#: admin/partials/feed-config-metabox-display-filter.php:38
+#: admin/partials/feed-config-metabox-display.php:29
+msgid "Value"
+msgstr "Valor"
+
+#: admin/partials/feed-config-metabox-display-filter.php:39
+msgid "Then"
+msgstr "Entonces"
+
+#: admin/partials/feed-config-metabox-display.php:27
+msgid "Attributes"
+msgstr "Atributos"
+
+#: admin/partials/feed-config-metabox-display.php:28
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/partials/feed-config-metabox-display.php:30
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: admin/partials/feed-config-metabox-display.php:31
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: admin/partials/feed-config-metabox-display.php:32
+msgid "Output Sanitization"
+msgstr "Desinfección de salida"
+
+#: admin/partials/feed-config-metabox-display.php:33
+msgid "Output Limit"
+msgstr "Límite de salida"
+
+#: admin/partials/merchant_settings.php:38
+msgid "Configure your google merchant"
+msgstr "Configure su comerciante de google"
+
+#: admin/partials/merchant_settings.php:44
+msgid "Client ID#: "
+msgstr ""
+"\n"
+"Identificación del cliente#:"
+
+#: admin/partials/merchant_settings.php:48
+msgid "Client Secret: "
+msgstr ""
+"\n"
+"Secreto del cliente:"
+
+#: admin/partials/merchant_settings.php:52
+msgid "Merchant ID# : "
+msgstr ""
+"\n"
+"Identificación del comerciante# :"
+
+#: admin/partials/merchant_settings.php:57
+msgid "Redirect URL"
+msgstr "Redireccionar URL"
+
+#: admin/partials/merchant_settings.php:60
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: admin/partials/merchant_settings.php:64
+msgid "Submit"
+msgstr ""
+"\n"
+"Enviar"
+
+#: admin/partials/on_boarding.php:50 admin/partials/on_boarding.php:204
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: admin/partials/on_boarding.php:52
+#, php-format
+msgid ""
+"Purchase our <a href=\"%s\" target=\"_blank\" title=\"Click to Upgrade Pro\">"
+"premium version</a> to unlock these pro components!"
+msgstr ""
+"Compre nuestro <a href=\"%s\" target=\"_blank\" title=\"Haga clic para "
+"actualizar Pro\"> versión premium </a> para desbloquear estos componentes "
+"profesionales."
+
+#: admin/partials/on_boarding.php:56
+msgid "ok"
+msgstr "Okay"
+
+#: admin/partials/on_boarding.php:91
+msgid "General"
+msgstr "General"
+
+#: admin/partials/on_boarding.php:115
+msgid "Merchants"
+msgstr "Comerciantes"
+
+#: admin/partials/on_boarding.php:158 admin/partials/on_boarding.php:1300
+msgid "Controls"
+msgstr "Control S"
+
+#: admin/partials/on_boarding.php:180
+msgid "Video Tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: admin/partials/on_boarding.php:200 admin/partials/on_boarding.php:1495
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#: admin/partials/on_boarding.php:207
+msgid "Logs"
+msgstr "Registros"
+
+#: admin/partials/on_boarding.php:225
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/partials/on_boarding.php:230
+msgid ""
+"Before You start, you can check our Documentation to get familiar with "
+"WooCommerce Product Feed Manager."
+msgstr ""
+"Antes de comenzar, puede consultar nuestra Documentación para familiarizarse "
+"con el Administrador de feeds de productos de WooCommerce."
+
+#: admin/partials/on_boarding.php:233
+msgid "View Documentation"
+msgstr "Ver documentación"
+
+#: admin/partials/on_boarding.php:247
+msgid ""
+"Can't find solution on with our documentation? Just Post a ticket on Support "
+"forum. We are to solve your issue."
+msgstr ""
+"¿No puede encontrar una solución con nuestra documentación? Simplemente "
+"publique un ticket en el foro de soporte. Estamos para resolver su problema."
+
+#: admin/partials/on_boarding.php:250
+msgid "Post a Ticket"
+msgstr "Publica un boleto"
+
+#: admin/partials/on_boarding.php:259
+msgid "Share Your Thoughts"
+msgstr "Comparte tus pensamientos"
+
+#: admin/partials/on_boarding.php:264
+msgid ""
+"Your suggestions are valubale to us. It can help to make WPFM even better."
+msgstr ""
+"Sus sugerencias son valiosas para nosotros. Puede ayudar a mejorar WPFM."
+
+#: admin/partials/on_boarding.php:267
+msgid "Suggest"
+msgstr "Sugerir"
+
+#: admin/partials/on_boarding.php:276
+msgid "Make WPFM Popular"
+msgstr "Haga que WPFM sea popular"
+
+#: admin/partials/on_boarding.php:281
+msgid ""
+"Your rating and feedback matters to us. If you are happy with WooCommerce "
+"Product Feed Manager give us a rating."
+msgstr ""
+"Su calificación y comentarios nos importan. Si está satisfecho con el "
+"Administrador de feeds de productos de WooCommerce, califíquenos."
+
+#: admin/partials/on_boarding.php:284
+msgid "Rate Us!"
+msgstr "¡Nos califica!"
+
+#: admin/partials/on_boarding.php:293
+msgid "Share On"
+msgstr "Compartir en"
+
+#: admin/partials/on_boarding.php:298
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: admin/partials/on_boarding.php:299
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: admin/partials/on_boarding.php:300
+msgid "Share on Google+"
+msgstr "Comparte en Google+"
+
+#: admin/partials/on_boarding.php:301
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+#: admin/partials/on_boarding.php:313 admin/partials/on_boarding.php:1620
+msgid "Why upgrade to Pro?"
+msgstr "¿Por qué actualizar a Pro?"
+
+#: admin/partials/on_boarding.php:315 admin/partials/on_boarding.php:1622
+msgid "Generate feed for unlimited products"
+msgstr "Generar feed para productos ilimitados."
+
+#: admin/partials/on_boarding.php:316 admin/partials/on_boarding.php:1623
+msgid ""
+"Unique Product Identifiers Custom Fields (Brand, GTIN, MPN, UPC, EAN, JAN, "
+"ISBN, ITF14, Offer price, Offer effective date)"
+msgstr ""
+"Campos únicos de identificadores únicos de productos (marca, GTIN, MPN, UPC, "
+"EAN, JAN, ISBN, ITF14, precio de oferta, fecha de vigencia de la oferta)"
+
+#: admin/partials/on_boarding.php:317 admin/partials/on_boarding.php:1624
+msgid ""
+"Detailed Product Attributes Custom Fields (Size, Pattern, Material, Age "
+"Group, Gender, Color)"
+msgstr ""
+"Atributos detallados del producto Campos personalizados (tamaño, patrón, "
+"material, grupo de edad, género, color)"
+
+#: admin/partials/on_boarding.php:318 admin/partials/on_boarding.php:1625
+msgid "Ability To Exclude Tax From Structured Data Prices"
+msgstr "Capacidad para excluir impuestos de los precios de datos estructurados"
+
+#: admin/partials/on_boarding.php:319 admin/partials/on_boarding.php:1626
+msgid "Option To Fix WooCommerce’s (Json-Ld) Structured Data Bug"
+msgstr ""
+"Opción para corregir el error de datos estructurados de WooCommerce (Json-Ld)"
+
+#: admin/partials/on_boarding.php:320 admin/partials/on_boarding.php:1627
+msgid "Custom Batch configuration"
+msgstr "Configuración por lotes personalizada"
+
+#: admin/partials/on_boarding.php:321 admin/partials/on_boarding.php:1628
+msgid ""
+"9 more pre-built templates (including eBay MIP, eBay Seller Center, Google "
+"Product Review, Google Re-marketing (DRM) and others)"
+msgstr ""
+"9 plantillas precompiladas más (incluyendo eBay MIP, eBay Seller Center, "
+"Google Product Review, Google Re-marketing (DRM) y otros)"
+
+#: admin/partials/on_boarding.php:324
+msgid "Upgrade to Pro"
+msgstr "Actualiza a Pro"
+
+#: admin/partials/on_boarding.php:334
+msgid "Available Merchants"
+msgstr "Comerciantes disponibles"
+
+#: admin/partials/on_boarding.php:1268 admin/partials/on_boarding.php:1361
+#: admin/partials/on_boarding.php:1386 admin/partials/on_boarding.php:1413
+#: admin/partials/on_boarding.php:1438 admin/partials/on_boarding.php:1466
+msgid "pro"
+msgstr "Pro"
+
+#: admin/partials/on_boarding.php:1303
+msgid "Product(s) per batch"
+msgstr "Producto (s) por lote"
+
+#: admin/partials/on_boarding.php:1313
+msgid "Clear batch"
+msgstr "Borrar lote"
+
+#: admin/partials/on_boarding.php:1319
+msgid "Enable Facebook Pixel"
+msgstr "Habilitar Facebook Pixel"
+
+#: admin/partials/on_boarding.php:1335
+msgid "Enable log"
+msgstr "Habilitar registro"
+
+#: admin/partials/on_boarding.php:1349
+msgid "Facebook Pixel id"
+msgstr "ID de píxel de Facebook"
+
+#: admin/partials/on_boarding.php:1365
+msgid "Add custom fields for Amazon"
+msgstr "Agregar campos personalizados para Amazon"
+
+#: admin/partials/on_boarding.php:1391
+msgid "Exclude TAX from structured data prices"
+msgstr "Excluir impuestos de los precios de datos estructurados"
+
+#: admin/partials/on_boarding.php:1417
+msgid ""
+"Add Unique Product Identifiers ( Brand, GTIN, MPN, UPC, EAN, JAN, ISBN, "
+"ITF14, Offer price, Offer effective date ) to product"
+msgstr ""
+"Agregue identificadores únicos de producto (marca, GTIN, MPN, UPC, EAN, JAN, "
+"ISBN, ITF14, precio de oferta, fecha de vigencia de la oferta) al producto"
+
+#: admin/partials/on_boarding.php:1443
+msgid ""
+"Increase the number of products that will be approved in Google's Merchant "
+"Center:\n"
+"                                           This option will fix "
+"WooCommerce's (JSON-LD) structured data bug and add extra structured data "
+"elements to your pages"
+msgstr ""
+"Aumente la cantidad de productos que se aprobarán en Google Merchant Center:"
+"\n"
+"                                            Esta opción reparará el error de "
+"datos estructurados de WooCommerce (JSON-LD) y agregará elementos de datos "
+"estructurados adicionales a sus páginas"
+
+#: admin/partials/on_boarding.php:1470
+msgid ""
+"Add Detailed Product Attributes ( Size, Color, Pattern, Material, Age group, "
+"Gender, Additional info ) to product"
+msgstr ""
+"Agregue atributos detallados del producto (tamaño, color, patrón, material, "
+"grupo de edad, género, información adicional) al producto"
+
+#: admin/partials/on_boarding.php:1525
+msgid "PHP version:"
+msgstr "Versión PHP:"
+
+#: admin/partials/on_boarding.php:1531
+#, php-format
+msgid ""
+"%1$s - We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr ""
+"Recomendamos usar PHP versión 7.2 o superior para un mayor rendimiento y "
+"seguridad."
+
+#: admin/partials/on_boarding.php:1537
+msgid "WordPress version:"
+msgstr "Versión de WordPress:"
+
+#: admin/partials/on_boarding.php:1543
+#, php-format
+msgid "%1$s - WP version above 4 is required. "
+msgstr "Se requiere la versión WP superior a 4."
+
+#: admin/partials/on_boarding.php:1549
+msgid "WooCommerce Version:"
+msgstr "Versión de WooCommerce:"
+
+#: admin/partials/on_boarding.php:1555
+#, php-format
+msgid "%1$s - WC version above 4 is required. "
+msgstr "Se requiere la versión WC superior a 4."
+
+#: admin/partials/on_boarding.php:1561
+msgid "Memory:"
+msgstr "Memoria:"
+
+#: admin/partials/on_boarding.php:1567
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "Recomendamos configurar la memoria en al menos 64 MB. Ver:"
+
+#: admin/partials/on_boarding.php:1567
+msgid "Increasing memory allocated to PHP"
+msgstr "Aumento de memoria asignada a PHP"
+
+#: admin/partials/on_boarding.php:1573
+msgid "Upload Limit:"
+msgstr "Límite de carga:"
+
+#: admin/partials/on_boarding.php:1579
+#, php-format
+msgid "%1$s - We recommend upload limit to at least 64MB."
+msgstr "Recomendamos un límite de carga de al menos 64 MB."
+
+#: admin/partials/on_boarding.php:1585
+msgid "WP Cron"
+msgstr "WP Cron"
+
+#: admin/partials/on_boarding.php:1597
+msgid "Product Feed Directory Writable"
+msgstr "Directorio de feeds de productos de escritura"
+
+#: admin/partials/on_boarding.php:1603
+#, php-format
+msgid "It is required to make feed directory writable. %1$s"
+msgstr "Se requiere que el directorio del feed sea editable"
+
+#: admin/partials/on_boarding.php:1630
+msgid "Get Premium Version"
+msgstr "Obtenga la versión premium"
+
+#: admin/partials/on_boarding.php:1653
+msgid "View log"
+msgstr "Ver registro"
+
+#: admin/partials/on_boarding.php:1657
+msgid "Copy log"
+msgstr "Copiar registro"
+
+#: admin/partials/progress-bar.php:27
+msgid "Your feed is generating"
+msgstr "Tu feed está generando"
+
+#: admin/partials/wpmf-black-friday-notice.php:16
+msgid "Upgrade to pro with a"
+msgstr "Actualiza a profesional con un"
+
+#: admin/partials/wpmf-black-friday-notice.php:17
+msgid "Huge Black Friday Discount"
+msgstr "Gran descuento del Black Friday"
+
+#: admin/partials/wpmf-black-friday-notice.php:18
+msgid "Generate ultimate product feed in minutes."
+msgstr "Generate ultimate product feed in minutes."
+
+#: admin/partials/wpmf-black-friday-notice.php:25
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#. Name of the plugin
+msgid "WooCommerce Product Feed Manager"
+msgstr "Gerente de alimentación de productos de WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Product Feed Manager helps you to sell more by uploading product "
+"feed to Google shopping, Amazon, Walmart, eBay, Nextag, Pricegrabber and "
+"acquiring real buyer."
+msgstr ""
+"El Administrador de feeds de productos de WooCommerce lo ayuda a vender más "
+"cargando feeds de productos en las compras de Google, Amazon, Walmart, eBay, "
+"Nextag, Pricegrabber y adquiriendo un comprador real."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://rextheme.com"
+msgstr "https://rextheme.com"
+
+#. Author of the plugin
+msgid "RexTheme"
+msgstr "RexTheme"

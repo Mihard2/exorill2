@@ -1,0 +1,971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Feed Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-04 07:18+0000\n"
+"PO-Revision-Date: 2020-06-04 13:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: admin/class-rex-google-merchant-content-api.php:96
+#: admin/class-rex-google-merchant-content-api.php:135
+msgid "You are not authorized."
+msgstr "Nejste oprávněni."
+
+#: admin/class-rex-google-merchant-content-api.php:97
+#: admin/class-rex-google-merchant-content-api.php:136
+msgid ""
+"Your access token has expired. This application uses OAuth 2.0 to Access "
+"Google APIs. Please insert the information below and authenticate token for "
+"Google Merchant Shop. Generated access token expires after 3600 sec."
+msgstr ""
+"Platnost vašeho přístupového tokenu vypršela. Tato aplikace používá pro "
+"přístup k API Google OAuth 2.0. Vložte níže uvedené informace a ověřte token "
+"pro službu Google Merchant Shop. Vygenerovaný přístupový token vyprší po "
+"3600 sekundách."
+
+#: admin/class-rex-google-merchant-content-api.php:108
+msgid "You are authorized."
+msgstr "Jste oprávněni."
+
+#: admin/class-rex-google-merchant-content-api.php:109
+#, fuzzy
+#| "You are now ready to send feed from WooCommerce Product Feed Manager to "
+#| "your Google Merchant Center. 🚀"
+msgid ""
+"You are now ready to send feed from WooCommerce Product Feed Manager to your "
+"Google Merchant Center. "
+msgstr ""
+"Nyní jste připraveni poslat zdroj ze Správce zdrojů produktů WooCommerce do "
+"svého Google Merchant Center. 🚀"
+
+#: admin/class-rex-product-data-retriever.php:110
+msgid "Start product processing."
+msgstr "Zahajte zpracování produktu."
+
+#: admin/class-rex-product-data-retriever.php:122
+msgid "End product processing."
+msgstr "Zpracování konečného produktu."
+
+#: admin/class-rex-product-feed-admin.php:304
+msgid "Leave a review?"
+msgstr "Zanechat recenzi?"
+
+#: admin/class-rex-product-feed-admin.php:305
+msgid ""
+"Hey, I noticed you are using WC product feed manager for over two weeks – "
+"that’s awesome! Could you please do me a BIG favor and give it a 5-star "
+"rating on WordPress? Just to help us spread the word and boost our "
+"motivation."
+msgstr ""
+"Hej, všiml jsem si, že používáte správce krmiv pro produkty WC více než dva "
+"týdny - to je úžasné! Mohl byste mi prosím udělat velkou laskavost a dát mu "
+"na WordPress 5 hvězdiček? Jen abychom nám pomohli šířit slovo a posílit naši "
+"motivaci."
+
+#: admin/class-rex-product-feed-admin.php:309
+msgid "Ok, you deserve it"
+msgstr "Dobře, zasloužíš si to"
+
+#: admin/class-rex-product-feed-admin.php:313
+msgid "Nope, maybe later."
+msgstr "Ne, možná později."
+
+#: admin/class-rex-product-feed-admin.php:317
+msgid "I already did."
+msgstr "Už se stalo."
+
+#: admin/class-rex-product-feed-admin.php:320
+msgid "Dismiss this notice."
+msgstr "Toto oznámení zrušit."
+
+#: admin/class-rex-product-feed-admin.php:383
+msgid "Category Mapping"
+msgstr "Mapování kategorií"
+
+#: admin/class-rex-product-feed-admin.php:384
+msgid "Google Merchant Settings"
+msgstr "Nastavení obchodníka Google"
+
+#: admin/class-rex-product-feed-admin.php:385
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/class-rex-product-feed-admin.php:386
+#: admin/partials/on_boarding.php:242
+msgid "Support"
+msgstr "Podpěra, podpora"
+
+#: admin/class-rex-product-feed-admin.php:390
+#: admin/class-rex-product-feed-admin.php:445
+msgid "Go Pro"
+msgstr "Staň se profesionálem"
+
+#: admin/class-rex-product-feed-admin.php:443
+msgid "Dashboard"
+msgstr "Přístrojová deska"
+
+#: admin/class-rex-product-feed-admin.php:460
+msgid "View WPFM Documentation"
+msgstr "Zobrazit dokumentaci WPFM"
+
+#: admin/class-rex-product-feed-admin.php:460
+msgid "Docs & FAQs"
+msgstr "Dokumenty a časté dotazy"
+
+#: admin/class-rex-product-feed-admin.php:786
+msgid "Referrer"
+msgstr "Referrer"
+
+#: admin/class-rex-product-feed-admin.php:794
+msgid "The referrer: (e.g. google, newsletter)"
+msgstr "Referrer: (např. Google, newsletter)"
+
+#: admin/class-rex-product-feed-admin.php:797
+msgid "Medium"
+msgstr "Střední"
+
+#: admin/class-rex-product-feed-admin.php:805
+msgid "Marketing medium: (e.g. cpc, banner, email)"
+msgstr "Marketingové médium: (např. CPC, banner, e-mail)"
+
+#: admin/class-rex-product-feed-admin.php:809
+msgid "Campaign"
+msgstr "Kampaň"
+
+#: admin/class-rex-product-feed-admin.php:817
+msgid "Product, promo code, or slogan (e.g. spring_sale)"
+msgstr "Produkt, propagační kód nebo slogan (např. Spring_sale)"
+
+#: admin/class-rex-product-feed-admin.php:820
+msgid "Campaign term"
+msgstr "Termín kampaně"
+
+#: admin/class-rex-product-feed-admin.php:828
+msgid "Identify the paid keywords"
+msgstr "Identifikujte placená klíčová slova"
+
+#: admin/class-rex-product-feed-admin.php:832
+msgid "Campaign content"
+msgstr "Obsah kampaně"
+
+#: admin/class-rex-product-feed-admin.php:840
+msgid "Use to differentiate ads"
+msgstr "Použijte k rozlišení reklam"
+
+#: admin/class-rex-product-feed-cpt.php:115
+msgid "Total products : "
+msgstr "Celkem produktů:"
+
+#: admin/class-rex-product-feed-cpt.php:116
+msgid "Simple products : "
+msgstr "Jednoduché výrobky:"
+
+#: admin/class-rex-product-feed-cpt.php:117
+msgid "Variable parent : "
+msgstr "Variabilní rodič:"
+
+#: admin/class-rex-product-feed-cpt.php:118
+msgid "Variations : "
+msgstr "Varianty:"
+
+#: admin/class-rex-product-feed-cpt.php:119
+msgid "Group products : "
+msgstr "Skupinové produkty:"
+
+#: admin/class-rex-product-feed-factory.php:219
+msgid "Invalid Merchant."
+msgstr "Neplatný obchodník."
+
+#: admin/class-rex-product-feed-metabox.php:40
+#: admin/class-rex-product-feed-metabox.php:47
+msgid "Products"
+msgstr "produkty"
+
+#: admin/class-rex-product-feed-metabox.php:48
+msgid "Select products to create feed for."
+msgstr "Vyberte produkty, pro které chcete vytvořit zdroj."
+
+#: admin/class-rex-product-feed-metabox.php:54
+msgid "All Published Products"
+msgstr "Všechny publikované produkty"
+
+#: admin/class-rex-product-feed-metabox.php:55
+msgid "Custom Filter"
+msgstr "Vlastní filtr"
+
+#: admin/class-rex-product-feed-metabox.php:56
+msgid "Category Filter"
+msgstr "Filtr kategorií"
+
+#: admin/class-rex-product-feed-metabox.php:57
+msgid "Tag Filter"
+msgstr "Filtr značek"
+
+#: admin/class-rex-product-feed-metabox.php:107
+msgid "Refresh Interval"
+msgstr "Interval obnovení"
+
+#: admin/class-rex-product-feed-metabox.php:108
+msgid "Feed Schedule Update"
+msgstr "Aktualizace plánu zdroje"
+
+#: admin/class-rex-product-feed-metabox.php:112
+msgid "No Interval"
+msgstr "Žádný interval"
+
+#: admin/class-rex-product-feed-metabox.php:113
+msgid "Daily"
+msgstr "Denně"
+
+#: admin/class-rex-product-feed-metabox.php:114
+#: admin/class-rex-product-feed-metabox.php:700
+msgid "Hourly"
+msgstr "Hodinově"
+
+#: admin/class-rex-product-feed-metabox.php:125
+msgid "Include Variable Parent Product"
+msgstr "Zahrnout variabilní rodičovský produkt"
+
+#: admin/class-rex-product-feed-metabox.php:126
+msgid "Include/Exclude Parent Variable Product"
+msgstr "Zahrnout / vyloučit nadřazený variabilní produkt"
+
+#: admin/class-rex-product-feed-metabox.php:130
+#: admin/class-rex-product-feed-metabox.php:146
+#: admin/class-rex-product-feed-metabox.php:163
+#: admin/class-rex-product-feed-metabox.php:179
+#: admin/class-rex-product-feed-metabox.php:195
+msgid "Yes"
+msgstr "Ano"
+
+#: admin/class-rex-product-feed-metabox.php:131
+#: admin/class-rex-product-feed-metabox.php:147
+#: admin/class-rex-product-feed-metabox.php:164
+#: admin/class-rex-product-feed-metabox.php:180
+#: admin/class-rex-product-feed-metabox.php:196
+msgid "No"
+msgstr "Ne"
+
+#: admin/class-rex-product-feed-metabox.php:141
+msgid "Include Product Variations"
+msgstr "Zahrnout varianty produktu"
+
+#: admin/class-rex-product-feed-metabox.php:142
+msgid "Include/Exclude Products Variations"
+msgstr "Zahrnout / vyloučit varianty produktů"
+
+#: admin/class-rex-product-feed-metabox.php:158
+msgid "Include variation product name"
+msgstr "Uveďte název produktu varianty"
+
+#: admin/class-rex-product-feed-metabox.php:159
+msgid ""
+"It will add the all the variation name on product title. Will be applicable "
+"if there are more than two variation atrributes of a product."
+msgstr ""
+"Do názvu produktu přidá celý název varianty. Bude použitelné, pokud existují "
+"více než dvě variace atrributů produktu."
+
+#: admin/class-rex-product-feed-metabox.php:174
+msgid "Include Parent Product (Grouped Product)"
+msgstr "Zahrnout nadřazený produkt (seskupený produkt)"
+
+#: admin/class-rex-product-feed-metabox.php:175
+msgid "Include/Exclude Parent Product"
+msgstr "Zahrnout / vyloučit nadřazený produkt"
+
+#: admin/class-rex-product-feed-metabox.php:190
+#: admin/class-rex-product-feed-metabox.php:191
+msgid "Exclude invisible/hidden products"
+msgstr "Vyloučit neviditelné / skryté produkty"
+
+#: admin/class-rex-product-feed-metabox.php:205
+msgid "Analytics parameters"
+msgstr "Parametry Analytics"
+
+#: admin/class-rex-product-feed-metabox.php:206
+msgid "Check to activate utm params"
+msgstr "Zaškrtněte pro aktivaci utm parametrů"
+
+#: admin/class-rex-product-feed-metabox.php:212
+msgid "Parameters"
+msgstr "Parametry"
+
+#: admin/class-rex-product-feed-metabox.php:303
+msgid "Please select merchant"
+msgstr "Vyberte obchodníka"
+
+#: admin/class-rex-product-feed-metabox.php:334
+msgid "Feed Configuration"
+msgstr "Konfigurace zdroje"
+
+#: admin/class-rex-product-feed-metabox.php:339
+msgid "Merchant Type"
+msgstr "Typ obchodníka"
+
+#: admin/class-rex-product-feed-metabox.php:340
+msgid "Select Merchant Type of the Feed."
+msgstr "Vyberte Typ obchodníka zdroje."
+
+#: admin/class-rex-product-feed-metabox.php:351
+msgid "File Format"
+msgstr "Formát souboru"
+
+#: admin/class-rex-product-feed-metabox.php:352
+msgid "Select Format of the Feed."
+msgstr "Vyberte Formát zdroje."
+
+#: admin/class-rex-product-feed-metabox.php:356
+msgid "XML"
+msgstr "XML"
+
+#: admin/class-rex-product-feed-metabox.php:357
+msgid "TEXT"
+msgstr "TEXT"
+
+#: admin/class-rex-product-feed-metabox.php:358
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/class-rex-product-feed-metabox.php:359
+msgid "JSON (Only for Zalando)"
+msgstr "JSON (pouze pro Zalando)"
+
+#: admin/class-rex-product-feed-metabox.php:524
+msgid "Add New Attribute"
+msgstr "Přidat nový atribut"
+
+#: admin/class-rex-product-feed-metabox.php:525
+msgid "Add New Custom Attribute"
+msgstr "Přidat nový vlastní atribut"
+
+#: admin/class-rex-product-feed-metabox.php:557
+msgid "Add New Filter"
+msgstr "Přidat nový filtr"
+
+#: admin/class-rex-product-feed-metabox.php:573
+msgid "Feed URL"
+msgstr "Adresa URL zdroje"
+
+#: admin/class-rex-product-feed-metabox.php:580
+msgid "Your Feed URL"
+msgstr "Adresa URL zdroje"
+
+#: admin/class-rex-product-feed-metabox.php:601
+msgid "Why upgrade to Premium Version?"
+msgstr "Proč upgradovat na prémiovou verzi?"
+
+#: admin/class-rex-product-feed-metabox.php:623
+msgid "Supports more than 50 products."
+msgstr "Podporuje více než 50 produktů."
+
+#: admin/class-rex-product-feed-metabox.php:624
+msgid "Access to a elite support team."
+msgstr "Přístup k elitnímu týmu podpory."
+
+#: admin/class-rex-product-feed-metabox.php:625
+msgid "Supports YITH brand attributes."
+msgstr "Podporuje atributy značky YITH."
+
+#: admin/class-rex-product-feed-metabox.php:626
+msgid "Dynamic Attribute."
+msgstr "Dynamický atribut."
+
+#: admin/class-rex-product-feed-metabox.php:627
+msgid ""
+"Custom field support - Brand,GTIN,MPN,UPC,EAN,Size, Pattern, Material, Age "
+"Group, Gender."
+msgstr ""
+"Podpora vlastních polí - značka, GTIN, MPN, UPC, EAN, velikost, vzor, "
+"materiál, věková skupina, pohlaví."
+
+#: admin/class-rex-product-feed-metabox.php:628
+msgid "Fix WooCommerce's (JSON-LD) structure data bug"
+msgstr "Opravte chybu datové struktury struktury WooCommerce (JSON-LD)"
+
+#: admin/class-rex-product-feed-metabox.php:646
+msgid "View Feed"
+msgstr "Zobrazit zdroj"
+
+#: admin/class-rex-product-feed-metabox.php:648
+msgid "Download Feed"
+msgstr "Stáhněte si zdroj"
+
+#: admin/class-rex-product-feed-metabox.php:664
+msgid "Send to Google Merchant"
+msgstr "Odeslat do služby Google Merchant"
+
+#: admin/class-rex-product-feed-metabox.php:672
+msgid "Target Country"
+msgstr "Cílová země"
+
+#: admin/class-rex-product-feed-metabox.php:683
+msgid "Target Language"
+msgstr "Cílový jazyk"
+
+#: admin/class-rex-product-feed-metabox.php:693
+msgid "Schedule"
+msgstr "Plán"
+
+#: admin/class-rex-product-feed-metabox.php:698
+msgid "Monthly"
+msgstr "Měsíční"
+
+#: admin/class-rex-product-feed-metabox.php:699
+msgid "Weekly"
+msgstr "Týdně"
+
+#: admin/class-rex-product-feed-metabox.php:708
+msgid "Select day of month"
+msgstr "Vyberte den v měsíci"
+
+#: admin/class-rex-product-feed-metabox.php:720
+msgid "Select day of week"
+msgstr "Vyberte den v týdnu"
+
+#: admin/class-rex-product-feed-metabox.php:740
+msgid "Select Hour"
+msgstr "Vyberte hodinu"
+
+#: admin/class-rex-product-feed-metabox.php:756
+msgid ""
+"<p class=\"google-desc\">Please note that Google has fixed abbreviations for "
+"Location and Language. For example, the abbreviation for target location, "
+"United States is US and the abbreviation for language, English is en. <a "
+"href=\"https://rextheme.com/google-country-codes-list/\" target=\"_blank\">"
+"Click here</a> to see the list of all abbreviations set by Google.</p>"
+msgstr ""
+"<p class = \"google-desc\"> Vezměte prosím na vědomí, že Google má pevné "
+"zkratky pro umístění a jazyk. Například zkratka pro cílové umístění, Spojené "
+"státy americké a zkratka pro jazyk, angličtina je en. <a href=\"https:"
+"//rextheme.com/google-country-codes-list/\" target=\"_blank\"> Klepnutím sem "
+"</a> zobrazíte seznam všech zkratek nastavených společností Google. </p>"
+
+#: admin/class-rex-product-feed-metabox.php:782
+#, fuzzy
+#| "Oops!! Access token has expired.Please authenticate token for Google "
+#| "Merchant Shop to be able to send feed."
+msgid ""
+"Oops!! Access token has expired 😕. Please authenticate token for Google "
+"Merchant Shop to be able to send feed."
+msgstr ""
+"Jejda !! Platnost přístupového tokenu vypršela. Ověřte token, aby mohl "
+"obchod Google Merchant Shop posílat zdroj."
+
+#: admin/class-rex-product-feed-metabox.php:784
+msgid "Authenticate"
+msgstr "Ověřit"
+
+#: admin/class-rex-product-feed-metabox.php:789
+msgid "Send to google merchant"
+msgstr "Odeslat obchodníkovi Google"
+
+#: admin/class-rex-product-feed-notices.php:37
+msgid "Product Feed"
+msgstr "Krmení produktu"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:368
+msgid "Start feed processing job by cron"
+msgstr "Spusťte úlohu zpracování kanálu pomocí cronu"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:378
+msgid "Start feed processing job."
+msgstr "Spusťte úlohu zpracování zdroje."
+
+#: admin/feed/abstract-rex-product-feed-generator.php:1005
+msgid "Completed feed generation job."
+msgstr "Dokončena úloha generování zdroje."
+
+#: admin/partials/category_mapping.php:46
+msgid "Update"
+msgstr "Aktualizace"
+
+#: admin/partials/category_mapping.php:47
+msgid "Delete"
+msgstr "Odstranit"
+
+#: admin/partials/category_mapping.php:57
+msgid "Please update WPFM database"
+msgstr "Aktualizujte prosím databázi WPFM"
+
+#: admin/partials/category_mapping.php:70
+msgid "Add New Category Map"
+msgstr "Přidat novou mapu kategorií"
+
+#: admin/partials/category_mapping.php:74
+msgid "Mapper Name"
+msgstr "Název mapovače"
+
+#: admin/partials/category_mapping.php:87
+msgid "Save"
+msgstr "Uložit"
+
+#: admin/partials/database-update-notice.php:6
+msgid "WPFM Database Update Notice"
+msgstr "Oznámení o aktualizaci databáze WPFM"
+
+#: admin/partials/database-update-notice.php:10
+msgid ""
+"WooCommerce Product Feed Manager is getting better and now, has an updated "
+"data structure for it to run smoothly. Click on update now to get the latest "
+"data structure for WPFM. None of your data will be changed/removed, only "
+"WPFM data will be restructured for better outcome."
+msgstr ""
+"Produkt WooCommerce Product Feed Manager se zlepšuje a nyní má "
+"aktualizovanou strukturu dat, aby mohl běžet hladce. Kliknutím na "
+"aktualizaci získáte nejnovější strukturu dat pro WPFM. Žádné z vašich dat "
+"nebudou změněny / odstraněny, pouze WPFM data budou restrukturalizována pro "
+"lepší výsledek."
+
+#: admin/partials/database-update-notice.php:11
+msgid ""
+"The database update process runs in the background and may take a little "
+"while, so please be patient."
+msgstr ""
+"Proces aktualizace databáze probíhá na pozadí a může chvíli trvat, takže "
+"buďte trpěliví."
+
+#: admin/partials/database-update-notice.php:17
+msgid "Update WPFM Database"
+msgstr "Aktualizujte databázi WPFM"
+
+#: admin/partials/database-update-running-notice.php:6
+msgid "Update in progress…."
+msgstr "Aktualizace probíhá…."
+
+#: admin/partials/database-update-running-notice.php:10
+msgid "It will run in the background while you can continue browsing."
+msgstr "Bude spuštěn na pozadí, zatímco budete moci pokračovat v prohlížení."
+
+#: admin/partials/feed-config-metabox-display-filter.php:36
+msgid "If"
+msgstr "Li"
+
+#: admin/partials/feed-config-metabox-display-filter.php:37
+msgid "Condition"
+msgstr "Stav"
+
+#: admin/partials/feed-config-metabox-display-filter.php:38
+#: admin/partials/feed-config-metabox-display.php:29
+msgid "Value"
+msgstr "Hodnota"
+
+#: admin/partials/feed-config-metabox-display-filter.php:39
+msgid "Then"
+msgstr "Pak"
+
+#: admin/partials/feed-config-metabox-display.php:27
+msgid "Attributes"
+msgstr "Atributy"
+
+#: admin/partials/feed-config-metabox-display.php:28
+msgid "Type"
+msgstr "Typ"
+
+#: admin/partials/feed-config-metabox-display.php:30
+msgid "Prefix"
+msgstr "Předpona"
+
+#: admin/partials/feed-config-metabox-display.php:31
+msgid "Suffix"
+msgstr "Přípona"
+
+#: admin/partials/feed-config-metabox-display.php:32
+msgid "Output Sanitization"
+msgstr "Výstupní dezinfekce"
+
+#: admin/partials/feed-config-metabox-display.php:33
+msgid "Output Limit"
+msgstr "Výstupní limit"
+
+#: admin/partials/merchant_settings.php:38
+msgid "Configure your google merchant"
+msgstr "Nakonfigurujte svého obchodníka google"
+
+#: admin/partials/merchant_settings.php:44
+msgid "Client ID#: "
+msgstr "ID klienta:"
+
+#: admin/partials/merchant_settings.php:48
+msgid "Client Secret: "
+msgstr "Tajemství klienta:"
+
+#: admin/partials/merchant_settings.php:52
+msgid "Merchant ID# : "
+msgstr "ID obchodníka:"
+
+#: admin/partials/merchant_settings.php:57
+msgid "Redirect URL"
+msgstr "Adresa URL přesměrování"
+
+#: admin/partials/merchant_settings.php:60
+msgid "Reset"
+msgstr "Resetovat"
+
+#: admin/partials/merchant_settings.php:64
+msgid "Submit"
+msgstr "Předložit"
+
+#: admin/partials/on_boarding.php:50 admin/partials/on_boarding.php:204
+msgid "Go Premium"
+msgstr "Přejít na prémii"
+
+#: admin/partials/on_boarding.php:52
+#, php-format
+msgid ""
+"Purchase our <a href=\"%s\" target=\"_blank\" title=\"Click to Upgrade Pro\">"
+"premium version</a> to unlock these pro components!"
+msgstr ""
+"K odemknutí těchto profesionálních součástí si zakupte naši <a href=\"%s\" "
+"target=\"_blank\" title=\"Kliknutím na Upgrade Pro\"> prémiovou verzi </a>!"
+
+#: admin/partials/on_boarding.php:56
+msgid "ok"
+msgstr "OK"
+
+#: admin/partials/on_boarding.php:91
+msgid "General"
+msgstr "Všeobecné"
+
+#: admin/partials/on_boarding.php:115
+msgid "Merchants"
+msgstr "Obchodníci"
+
+#: admin/partials/on_boarding.php:158 admin/partials/on_boarding.php:1300
+msgid "Controls"
+msgstr "Řízení"
+
+#: admin/partials/on_boarding.php:180
+msgid "Video Tutorials"
+msgstr "Video návody"
+
+#: admin/partials/on_boarding.php:200 admin/partials/on_boarding.php:1495
+msgid "System Status"
+msgstr "Stav systému"
+
+#: admin/partials/on_boarding.php:207
+msgid "Logs"
+msgstr "Protokoly"
+
+#: admin/partials/on_boarding.php:225
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: admin/partials/on_boarding.php:230
+msgid ""
+"Before You start, you can check our Documentation to get familiar with "
+"WooCommerce Product Feed Manager."
+msgstr ""
+"Než začnete, můžete si přečíst naši dokumentaci, abyste se seznámili s "
+"produktem WooCommerce Feed Manager."
+
+#: admin/partials/on_boarding.php:233
+msgid "View Documentation"
+msgstr "Zobrazit dokumentaci"
+
+#: admin/partials/on_boarding.php:247
+msgid ""
+"Can't find solution on with our documentation? Just Post a ticket on Support "
+"forum. We are to solve your issue."
+msgstr ""
+"Nemůžete najít řešení v naší dokumentaci? Stačí vložit lístek na fóru "
+"podpory. Váš problém vyřešíme."
+
+#: admin/partials/on_boarding.php:250
+msgid "Post a Ticket"
+msgstr "Vložte lístek"
+
+#: admin/partials/on_boarding.php:259
+msgid "Share Your Thoughts"
+msgstr "Sdílej svoje myšlenky"
+
+#: admin/partials/on_boarding.php:264
+msgid ""
+"Your suggestions are valubale to us. It can help to make WPFM even better."
+msgstr "Vaše návrhy jsou pro nás cenné. Může pomoci vylepšit WPFM."
+
+#: admin/partials/on_boarding.php:267
+msgid "Suggest"
+msgstr "Navrhnout"
+
+#: admin/partials/on_boarding.php:276
+msgid "Make WPFM Popular"
+msgstr "Udělejte si WPFM populární"
+
+#: admin/partials/on_boarding.php:281
+msgid ""
+"Your rating and feedback matters to us. If you are happy with WooCommerce "
+"Product Feed Manager give us a rating."
+msgstr ""
+"Vaše hodnocení a zpětná vazba jsou pro nás důležité. Pokud jste spokojeni s "
+"produktem Feed Manager produktu WooCommerce, dejte nám hodnocení."
+
+#: admin/partials/on_boarding.php:284
+msgid "Rate Us!"
+msgstr "Ohodnoťte nás!"
+
+#: admin/partials/on_boarding.php:293
+msgid "Share On"
+msgstr "Sdílet na"
+
+#: admin/partials/on_boarding.php:298
+msgid "Share on Facebook"
+msgstr "Sdílet na Facebooku"
+
+#: admin/partials/on_boarding.php:299
+msgid "Share on Twitter"
+msgstr "Sdílet na Twitteru"
+
+#: admin/partials/on_boarding.php:300
+msgid "Share on Google+"
+msgstr "Sdílet na Google+"
+
+#: admin/partials/on_boarding.php:301
+msgid "Share on LinkedIn"
+msgstr "Sdílet na LinkedIn"
+
+#: admin/partials/on_boarding.php:313 admin/partials/on_boarding.php:1620
+msgid "Why upgrade to Pro?"
+msgstr "Proč upgradovat na Pro?"
+
+#: admin/partials/on_boarding.php:315 admin/partials/on_boarding.php:1622
+msgid "Generate feed for unlimited products"
+msgstr "Generujte krmivo pro neomezené množství produktů"
+
+#: admin/partials/on_boarding.php:316 admin/partials/on_boarding.php:1623
+msgid ""
+"Unique Product Identifiers Custom Fields (Brand, GTIN, MPN, UPC, EAN, JAN, "
+"ISBN, ITF14, Offer price, Offer effective date)"
+msgstr ""
+"Vlastní pole jedinečných identifikátorů produktu (značka, GTIN, MPN, UPC, "
+"EAN, JAN, ISBN, ITF14, nabídková cena, datum účinnosti nabídky)"
+
+#: admin/partials/on_boarding.php:317 admin/partials/on_boarding.php:1624
+msgid ""
+"Detailed Product Attributes Custom Fields (Size, Pattern, Material, Age "
+"Group, Gender, Color)"
+msgstr ""
+"Podrobné atributy produktu Vlastní pole (velikost, vzor, materiál, věková "
+"skupina, pohlaví, barva)"
+
+#: admin/partials/on_boarding.php:318 admin/partials/on_boarding.php:1625
+msgid "Ability To Exclude Tax From Structured Data Prices"
+msgstr "Schopnost vyloučit daň z cen strukturovaných dat"
+
+#: admin/partials/on_boarding.php:319 admin/partials/on_boarding.php:1626
+msgid "Option To Fix WooCommerce’s (Json-Ld) Structured Data Bug"
+msgstr ""
+"Možnost opravit chybu strukturovaných dat společnosti WooCommerce (Json-Ld)"
+
+#: admin/partials/on_boarding.php:320 admin/partials/on_boarding.php:1627
+msgid "Custom Batch configuration"
+msgstr "Konfigurace vlastní dávky"
+
+#: admin/partials/on_boarding.php:321 admin/partials/on_boarding.php:1628
+msgid ""
+"9 more pre-built templates (including eBay MIP, eBay Seller Center, Google "
+"Product Review, Google Re-marketing (DRM) and others)"
+msgstr ""
+"9 dalších předdefinovaných šablon (včetně eBay MIP, eBay Seller Center, "
+"Recenze produktů Google, Re-marketing Google (DRM) a další)"
+
+#: admin/partials/on_boarding.php:324
+msgid "Upgrade to Pro"
+msgstr "Upgradujte na Pro"
+
+#: admin/partials/on_boarding.php:334
+msgid "Available Merchants"
+msgstr "Dostupné obchodníky"
+
+#: admin/partials/on_boarding.php:1268 admin/partials/on_boarding.php:1361
+#: admin/partials/on_boarding.php:1386 admin/partials/on_boarding.php:1413
+#: admin/partials/on_boarding.php:1438 admin/partials/on_boarding.php:1466
+msgid "pro"
+msgstr "pro"
+
+#: admin/partials/on_boarding.php:1303
+msgid "Product(s) per batch"
+msgstr "Produkt (produkty) na šarži"
+
+#: admin/partials/on_boarding.php:1313
+msgid "Clear batch"
+msgstr "Vymazat šarži"
+
+#: admin/partials/on_boarding.php:1319
+msgid "Enable Facebook Pixel"
+msgstr "Povolit Facebook Pixel"
+
+#: admin/partials/on_boarding.php:1335
+msgid "Enable log"
+msgstr "Povolit protokol"
+
+#: admin/partials/on_boarding.php:1349
+msgid "Facebook Pixel id"
+msgstr "Facebook Pixel id"
+
+#: admin/partials/on_boarding.php:1365
+msgid "Add custom fields for Amazon"
+msgstr "Přidejte vlastní pole pro Amazon"
+
+#: admin/partials/on_boarding.php:1391
+msgid "Exclude TAX from structured data prices"
+msgstr "Vyloučit daň z cen strukturovaných dat"
+
+#: admin/partials/on_boarding.php:1417
+msgid ""
+"Add Unique Product Identifiers ( Brand, GTIN, MPN, UPC, EAN, JAN, ISBN, "
+"ITF14, Offer price, Offer effective date ) to product"
+msgstr ""
+"Přidejte k produktu jedinečné identifikátory produktu (značka, GTIN, MPN, "
+"UPC, EAN, JAN, ISBN, ITF14, nabídková cena, datum účinnosti nabídky)"
+
+#: admin/partials/on_boarding.php:1443
+msgid ""
+"Increase the number of products that will be approved in Google's Merchant "
+"Center:\n"
+"                                           This option will fix "
+"WooCommerce's (JSON-LD) structured data bug and add extra structured data "
+"elements to your pages"
+msgstr ""
+"Zvyšte počet produktů, které budou schváleny ve službě Google Merchant "
+"Center:\n"
+"                                            Tato možnost opraví chybu "
+"strukturovaných dat WooCommerce (JSON-LD) a přidá na vaše stránky další "
+"prvky strukturovaných dat."
+
+#: admin/partials/on_boarding.php:1470
+msgid ""
+"Add Detailed Product Attributes ( Size, Color, Pattern, Material, Age group, "
+"Gender, Additional info ) to product"
+msgstr ""
+"Přidejte do produktu podrobné atributy produktu (velikost, barva, vzor, "
+"materiál, věková skupina, pohlaví, další informace)"
+
+#: admin/partials/on_boarding.php:1525
+msgid "PHP version:"
+msgstr "Verze PHP:"
+
+#: admin/partials/on_boarding.php:1531
+#, php-format
+msgid ""
+"%1$s - We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr ""
+"Pro vyšší výkon a zabezpečení doporučujeme používat PHP verze 7.2 nebo vyšší."
+
+#: admin/partials/on_boarding.php:1537
+msgid "WordPress version:"
+msgstr "Verze WordPress:"
+
+#: admin/partials/on_boarding.php:1543
+#, php-format
+msgid "%1$s - WP version above 4 is required. "
+msgstr "Je vyžadována verze WP nad 4."
+
+#: admin/partials/on_boarding.php:1549
+msgid "WooCommerce Version:"
+msgstr "Verze WooCommerce:"
+
+#: admin/partials/on_boarding.php:1555
+#, php-format
+msgid "%1$s - WC version above 4 is required. "
+msgstr "Je nutná verze WC nad 4."
+
+#: admin/partials/on_boarding.php:1561
+msgid "Memory:"
+msgstr "Paměť:"
+
+#: admin/partials/on_boarding.php:1567
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "Doporučujeme nastavit paměť alespoň na 64 MB. Vidět:"
+
+#: admin/partials/on_boarding.php:1567
+msgid "Increasing memory allocated to PHP"
+msgstr "Zvyšování paměti přidělené PHP"
+
+#: admin/partials/on_boarding.php:1573
+msgid "Upload Limit:"
+msgstr "Limit nahrávání:"
+
+#: admin/partials/on_boarding.php:1579
+#, php-format
+msgid "%1$s - We recommend upload limit to at least 64MB."
+msgstr "Doporučujeme uploadovat minimálně 64 MB."
+
+#: admin/partials/on_boarding.php:1585
+msgid "WP Cron"
+msgstr "WP Cron"
+
+#: admin/partials/on_boarding.php:1597
+msgid "Product Feed Directory Writable"
+msgstr "It is required to make feed directory writable."
+
+#: admin/partials/on_boarding.php:1603
+#, php-format
+msgid "It is required to make feed directory writable. %1$s"
+msgstr "Je nutné, aby byl adresář zdroje zapisovatelný."
+
+#: admin/partials/on_boarding.php:1630
+msgid "Get Premium Version"
+msgstr "Získejte prémiovou verzi"
+
+#: admin/partials/on_boarding.php:1653
+msgid "View log"
+msgstr "Zobrazit protokol"
+
+#: admin/partials/on_boarding.php:1657
+msgid "Copy log"
+msgstr "Kopírovat protokol"
+
+#: admin/partials/progress-bar.php:27
+msgid "Your feed is generating"
+msgstr "Váš zdroj se generuje"
+
+#: admin/partials/wpmf-black-friday-notice.php:16
+msgid "Upgrade to pro with a"
+msgstr "Upgradujte na profík s"
+
+#: admin/partials/wpmf-black-friday-notice.php:17
+msgid "Huge Black Friday Discount"
+msgstr "Obrovská černá páteční sleva"
+
+#: admin/partials/wpmf-black-friday-notice.php:18
+msgid "Generate ultimate product feed in minutes."
+msgstr "Generujte maximální množství krmiva během několika minut."
+
+#: admin/partials/wpmf-black-friday-notice.php:25
+msgid "Coupon:"
+msgstr "Kupón:"
+
+#. Name of the plugin
+msgid "WooCommerce Product Feed Manager"
+msgstr "Správce zdroje produktů WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Product Feed Manager helps you to sell more by uploading product "
+"feed to Google shopping, Amazon, Walmart, eBay, Nextag, Pricegrabber and "
+"acquiring real buyer."
+msgstr ""
+"Produkt WooCommerce Product Feed Manager vám pomůže prodat více tím, že "
+"nahrajete zdroj produktů do Nákupů Google, Amazon, Walmart, eBay, Nextag, "
+"Pricegrabber a získání skutečného kupce."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://rextheme.com"
+msgstr "https://rextheme.com"
+
+#. Author of the plugin
+msgid "RexTheme"
+msgstr "RexTheme"

@@ -1,0 +1,939 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Products Feed for WooCoommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-04 07:18+0000\n"
+"PO-Revision-Date: 2020-06-05 09:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: admin/class-rex-google-merchant-content-api.php:96
+#: admin/class-rex-google-merchant-content-api.php:135
+msgid "You are not authorized."
+msgstr ""
+"\n"
+"您没有权限"
+
+#: admin/class-rex-google-merchant-content-api.php:97
+#: admin/class-rex-google-merchant-content-api.php:136
+msgid ""
+"Your access token has expired. This application uses OAuth 2.0 to Access "
+"Google APIs. Please insert the information below and authenticate token for "
+"Google Merchant Shop. Generated access token expires after 3600 sec."
+msgstr ""
+"\n"
+"您的访问令牌已过期。此应用程序使用OAuth 2.0访问Google API。请输入以下信息并验证Google Merchant "
+"Shop的令牌。生成的访问令牌在3600秒后过期。"
+
+#: admin/class-rex-google-merchant-content-api.php:108
+msgid "You are authorized."
+msgstr "你被授权."
+
+#: admin/class-rex-google-merchant-content-api.php:109
+#, fuzzy
+#| "You are now ready to send feed from WooCommerce Product Feed Manager to "
+#| "your Google Merchant Center. 🚀"
+msgid ""
+"You are now ready to send feed from WooCommerce Product Feed Manager to your "
+"Google Merchant Center. "
+msgstr ""
+"您现在可以将WooCommerce Product Feed Manager的Feed发送到您的Google Merchant Center 🚀. \n"
+
+#: admin/class-rex-product-data-retriever.php:110
+msgid "Start product processing."
+msgstr "開始產品加工。"
+
+#: admin/class-rex-product-data-retriever.php:122
+msgid "End product processing."
+msgstr "最終產品加工。"
+
+#: admin/class-rex-product-feed-admin.php:304
+msgid "Leave a review?"
+msgstr "發表評論？"
+
+#: admin/class-rex-product-feed-admin.php:305
+msgid ""
+"Hey, I noticed you are using WC product feed manager for over two weeks – "
+"that’s awesome! Could you please do me a BIG favor and give it a 5-star "
+"rating on WordPress? Just to help us spread the word and boost our "
+"motivation."
+msgstr ""
+"嘿，我注意到你使用WC产品饲料管理器超过两周了 - "
+"这真棒！你能帮我一个大忙，给它一个5星级的WordPress评级吗？只是为了帮助我们传播信息并提升我们的动力。"
+
+#: admin/class-rex-product-feed-admin.php:309
+msgid "Ok, you deserve it"
+msgstr "好的，你应得的"
+
+#: admin/class-rex-product-feed-admin.php:313
+msgid "Nope, maybe later."
+msgstr "不，也许以后。"
+
+#: admin/class-rex-product-feed-admin.php:317
+msgid "I already did."
+msgstr "我已经做了。"
+
+#: admin/class-rex-product-feed-admin.php:320
+msgid "Dismiss this notice."
+msgstr "驳回此通知。"
+
+#: admin/class-rex-product-feed-admin.php:383
+msgid "Category Mapping"
+msgstr "类别映射"
+
+#: admin/class-rex-product-feed-admin.php:384
+msgid "Google Merchant Settings"
+msgstr "谷歌 商人 设置"
+
+#: admin/class-rex-product-feed-admin.php:385
+msgid "Settings"
+msgstr "設定值"
+
+#: admin/class-rex-product-feed-admin.php:386
+#: admin/partials/on_boarding.php:242
+msgid "Support"
+msgstr "支持"
+
+#: admin/class-rex-product-feed-admin.php:390
+#: admin/class-rex-product-feed-admin.php:445
+msgid "Go Pro"
+msgstr "專業版"
+
+#: admin/class-rex-product-feed-admin.php:443
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: admin/class-rex-product-feed-admin.php:460
+msgid "View WPFM Documentation"
+msgstr "查看WPFM文檔"
+
+#: admin/class-rex-product-feed-admin.php:460
+msgid "Docs & FAQs"
+msgstr "文件與常見問題"
+
+#: admin/class-rex-product-feed-admin.php:786
+msgid "Referrer"
+msgstr "推薦人"
+
+#: admin/class-rex-product-feed-admin.php:794
+msgid "The referrer: (e.g. google, newsletter)"
+msgstr "引薦來源網址：（例如Google，新聞通訊）"
+
+#: admin/class-rex-product-feed-admin.php:797
+msgid "Medium"
+msgstr "介質"
+
+#: admin/class-rex-product-feed-admin.php:805
+msgid "Marketing medium: (e.g. cpc, banner, email)"
+msgstr "營銷媒介：（例如，每次點擊費用，橫幅，電子郵件）"
+
+#: admin/class-rex-product-feed-admin.php:809
+msgid "Campaign"
+msgstr "運動"
+
+#: admin/class-rex-product-feed-admin.php:817
+msgid "Product, promo code, or slogan (e.g. spring_sale)"
+msgstr "產品，促銷代碼或口號（例如spring_sale）"
+
+#: admin/class-rex-product-feed-admin.php:820
+msgid "Campaign term"
+msgstr "廣告活動期限"
+
+#: admin/class-rex-product-feed-admin.php:828
+msgid "Identify the paid keywords"
+msgstr "識別付費關鍵字"
+
+#: admin/class-rex-product-feed-admin.php:832
+msgid "Campaign content"
+msgstr "廣告活動內容"
+
+#: admin/class-rex-product-feed-admin.php:840
+msgid "Use to differentiate ads"
+msgstr "用於區分廣告"
+
+#: admin/class-rex-product-feed-cpt.php:115
+msgid "Total products : "
+msgstr "產品總數："
+
+#: admin/class-rex-product-feed-cpt.php:116
+msgid "Simple products : "
+msgstr "簡單產品："
+
+#: admin/class-rex-product-feed-cpt.php:117
+msgid "Variable parent : "
+msgstr "可變父項："
+
+#: admin/class-rex-product-feed-cpt.php:118
+msgid "Variations : "
+msgstr "變化 ："
+
+#: admin/class-rex-product-feed-cpt.php:119
+msgid "Group products : "
+msgstr "集團產品："
+
+#: admin/class-rex-product-feed-factory.php:219
+msgid "Invalid Merchant."
+msgstr "無效的商家。"
+
+#: admin/class-rex-product-feed-metabox.php:40
+#: admin/class-rex-product-feed-metabox.php:47
+msgid "Products"
+msgstr "制品"
+
+#: admin/class-rex-product-feed-metabox.php:48
+msgid "Select products to create feed for."
+msgstr "选择要为其创建饲料的产品。"
+
+#: admin/class-rex-product-feed-metabox.php:54
+msgid "All Published Products"
+msgstr "所有已发布产品"
+
+#: admin/class-rex-product-feed-metabox.php:55
+msgid "Custom Filter"
+msgstr "定制过滤器"
+
+#: admin/class-rex-product-feed-metabox.php:56
+msgid "Category Filter"
+msgstr "类别过滤器"
+
+#: admin/class-rex-product-feed-metabox.php:57
+msgid "Tag Filter"
+msgstr "标签过滤器"
+
+#: admin/class-rex-product-feed-metabox.php:107
+msgid "Refresh Interval"
+msgstr ""
+"刷新间隔\n"
+
+#: admin/class-rex-product-feed-metabox.php:108
+msgid "Feed Schedule Update"
+msgstr "饲料计划更新"
+
+#: admin/class-rex-product-feed-metabox.php:112
+msgid "No Interval"
+msgstr "没有间隔"
+
+#: admin/class-rex-product-feed-metabox.php:113
+msgid "Daily"
+msgstr "日常"
+
+#: admin/class-rex-product-feed-metabox.php:114
+#: admin/class-rex-product-feed-metabox.php:700
+msgid "Hourly"
+msgstr "每小时"
+
+#: admin/class-rex-product-feed-metabox.php:125
+msgid "Include Variable Parent Product"
+msgstr "包括可變父產品"
+
+#: admin/class-rex-product-feed-metabox.php:126
+msgid "Include/Exclude Parent Variable Product"
+msgstr "包含/排除父變量產品"
+
+#: admin/class-rex-product-feed-metabox.php:130
+#: admin/class-rex-product-feed-metabox.php:146
+#: admin/class-rex-product-feed-metabox.php:163
+#: admin/class-rex-product-feed-metabox.php:179
+#: admin/class-rex-product-feed-metabox.php:195
+msgid "Yes"
+msgstr "是"
+
+#: admin/class-rex-product-feed-metabox.php:131
+#: admin/class-rex-product-feed-metabox.php:147
+#: admin/class-rex-product-feed-metabox.php:164
+#: admin/class-rex-product-feed-metabox.php:180
+#: admin/class-rex-product-feed-metabox.php:196
+msgid "No"
+msgstr "没有"
+
+#: admin/class-rex-product-feed-metabox.php:141
+msgid "Include Product Variations"
+msgstr "包括产品变化"
+
+#: admin/class-rex-product-feed-metabox.php:142
+msgid "Include/Exclude Products Variations"
+msgstr "包括/排除产品差异"
+
+#: admin/class-rex-product-feed-metabox.php:158
+msgid "Include variation product name"
+msgstr "包括變體產品名稱"
+
+#: admin/class-rex-product-feed-metabox.php:159
+msgid ""
+"It will add the all the variation name on product title. Will be applicable "
+"if there are more than two variation atrributes of a product."
+msgstr "它將在產品標題上添加所有變體名稱。 如果一個產品有兩個以上的變動特性，則將適用。"
+
+#: admin/class-rex-product-feed-metabox.php:174
+msgid "Include Parent Product (Grouped Product)"
+msgstr "包括父产品（分组产品）"
+
+#: admin/class-rex-product-feed-metabox.php:175
+msgid "Include/Exclude Parent Product"
+msgstr "包括/排除父产品"
+
+#: admin/class-rex-product-feed-metabox.php:190
+#: admin/class-rex-product-feed-metabox.php:191
+msgid "Exclude invisible/hidden products"
+msgstr "排除不可見/隱藏的產品"
+
+#: admin/class-rex-product-feed-metabox.php:205
+msgid "Analytics parameters"
+msgstr "分析參數"
+
+#: admin/class-rex-product-feed-metabox.php:206
+msgid "Check to activate utm params"
+msgstr "檢查以激活utm參數"
+
+#: admin/class-rex-product-feed-metabox.php:212
+msgid "Parameters"
+msgstr "參量"
+
+#: admin/class-rex-product-feed-metabox.php:303
+msgid "Please select merchant"
+msgstr "請選擇商家"
+
+#: admin/class-rex-product-feed-metabox.php:334
+msgid "Feed Configuration"
+msgstr "提要配置"
+
+#: admin/class-rex-product-feed-metabox.php:339
+msgid "Merchant Type"
+msgstr "商家类型"
+
+#: admin/class-rex-product-feed-metabox.php:340
+msgid "Select Merchant Type of the Feed."
+msgstr "选择Feed的商家类型。"
+
+#: admin/class-rex-product-feed-metabox.php:351
+msgid "File Format"
+msgstr "文件格式"
+
+#: admin/class-rex-product-feed-metabox.php:352
+msgid "Select Format of the Feed."
+msgstr "选择Feed的格式。"
+
+#: admin/class-rex-product-feed-metabox.php:356
+msgid "XML"
+msgstr "XML"
+
+#: admin/class-rex-product-feed-metabox.php:357
+msgid "TEXT"
+msgstr "TEXT"
+
+#: admin/class-rex-product-feed-metabox.php:358
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/class-rex-product-feed-metabox.php:359
+msgid "JSON (Only for Zalando)"
+msgstr "JSON（僅適用於Zalando）"
+
+#: admin/class-rex-product-feed-metabox.php:524
+msgid "Add New Attribute"
+msgstr "添加新属性"
+
+#: admin/class-rex-product-feed-metabox.php:525
+msgid "Add New Custom Attribute"
+msgstr "添加新的自定義屬性"
+
+#: admin/class-rex-product-feed-metabox.php:557
+msgid "Add New Filter"
+msgstr "添加新过滤器"
+
+#: admin/class-rex-product-feed-metabox.php:573
+msgid "Feed URL"
+msgstr "資訊提供網址"
+
+#: admin/class-rex-product-feed-metabox.php:580
+msgid "Your Feed URL"
+msgstr "您的供稿网址"
+
+#: admin/class-rex-product-feed-metabox.php:601
+msgid "Why upgrade to Premium Version?"
+msgstr "為什麼要升級到高級版？"
+
+#: admin/class-rex-product-feed-metabox.php:623
+msgid "Supports more than 50 products."
+msgstr "支持超過50種產品。"
+
+#: admin/class-rex-product-feed-metabox.php:624
+msgid "Access to a elite support team."
+msgstr "訪問精英支持團隊。"
+
+#: admin/class-rex-product-feed-metabox.php:625
+msgid "Supports YITH brand attributes."
+msgstr "支持YITH品牌屬性。"
+
+#: admin/class-rex-product-feed-metabox.php:626
+msgid "Dynamic Attribute."
+msgstr "動態屬性。"
+
+#: admin/class-rex-product-feed-metabox.php:627
+msgid ""
+"Custom field support - Brand,GTIN,MPN,UPC,EAN,Size, Pattern, Material, Age "
+"Group, Gender."
+msgstr "自定義字段支持-品牌，GTIN，MPN，UPC，EAN，尺寸，圖案，材料，年齡段，性別。"
+
+#: admin/class-rex-product-feed-metabox.php:628
+msgid "Fix WooCommerce's (JSON-LD) structure data bug"
+msgstr "修復WooCommerce（JSON-LD）結構數據錯誤"
+
+#: admin/class-rex-product-feed-metabox.php:646
+msgid "View Feed"
+msgstr "查看Feed"
+
+#: admin/class-rex-product-feed-metabox.php:648
+msgid "Download Feed"
+msgstr "下载Feed"
+
+#: admin/class-rex-product-feed-metabox.php:664
+msgid "Send to Google Merchant"
+msgstr "發送到Google Merchant"
+
+#: admin/class-rex-product-feed-metabox.php:672
+msgid "Target Country"
+msgstr ""
+"\n"
+"目标国家"
+
+#: admin/class-rex-product-feed-metabox.php:683
+msgid "Target Language"
+msgstr "目标语言"
+
+#: admin/class-rex-product-feed-metabox.php:693
+msgid "Schedule"
+msgstr "时间表"
+
+#: admin/class-rex-product-feed-metabox.php:698
+msgid "Monthly"
+msgstr "每月一次"
+
+#: admin/class-rex-product-feed-metabox.php:699
+msgid "Weekly"
+msgstr "每周"
+
+#: admin/class-rex-product-feed-metabox.php:708
+msgid "Select day of month"
+msgstr "选择月中的某一天"
+
+#: admin/class-rex-product-feed-metabox.php:720
+msgid "Select day of week"
+msgstr "选择星期几"
+
+#: admin/class-rex-product-feed-metabox.php:740
+msgid "Select Hour"
+msgstr "选择小时"
+
+#: admin/class-rex-product-feed-metabox.php:756
+msgid ""
+"<p class=\"google-desc\">Please note that Google has fixed abbreviations for "
+"Location and Language. For example, the abbreviation for target location, "
+"United States is US and the abbreviation for language, English is en. <a "
+"href=\"https://rextheme.com/google-country-codes-list/\" target=\"_blank\">"
+"Click here</a> to see the list of all abbreviations set by Google.</p>"
+msgstr ""
+"<p class =“ google-desc”>請注意，Google已修復位置和語言的縮寫。 "
+"例如，目標位置的縮寫，美國是US，語言的縮寫，英語是en。 <a href=\"https://rextheme.com/google-country-"
+"codes-list/\" target=\"_blank\">單擊此處</a>以查看Google設置的所有縮寫的列表。</ p>"
+
+#: admin/class-rex-product-feed-metabox.php:782
+#, fuzzy
+#| "Oops!! Access token has expired.Please authenticate token for Google "
+#| "Merchant Shop to be able to send feed."
+msgid ""
+"Oops!! Access token has expired 😕. Please authenticate token for Google "
+"Merchant Shop to be able to send feed."
+msgstr "哎呀！访问令牌已过期。请为Google Merchant Shop验证令牌，以便能够发送Feed。"
+
+#: admin/class-rex-product-feed-metabox.php:784
+msgid "Authenticate"
+msgstr ""
+"\n"
+"认证"
+
+#: admin/class-rex-product-feed-metabox.php:789
+msgid "Send to google merchant"
+msgstr "发送给谷歌商家"
+
+#: admin/class-rex-product-feed-notices.php:37
+msgid "Product Feed"
+msgstr "产品 饲料"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:368
+msgid "Start feed processing job by cron"
+msgstr "通過cron開始提要處理作業"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:378
+msgid "Start feed processing job."
+msgstr "開始提要處理作業。"
+
+#: admin/feed/abstract-rex-product-feed-generator.php:1005
+msgid "Completed feed generation job."
+msgstr "完成了提要生成作業。"
+
+#: admin/partials/category_mapping.php:46
+msgid "Update"
+msgstr "更新資料"
+
+#: admin/partials/category_mapping.php:47
+msgid "Delete"
+msgstr "刪除"
+
+#: admin/partials/category_mapping.php:57
+msgid "Please update WPFM database"
+msgstr "請更新WPFM數據庫"
+
+#: admin/partials/category_mapping.php:70
+msgid "Add New Category Map"
+msgstr "添加新的分類圖"
+
+#: admin/partials/category_mapping.php:74
+msgid "Mapper Name"
+msgstr "映射器名稱"
+
+#: admin/partials/category_mapping.php:87
+msgid "Save"
+msgstr "救"
+
+#: admin/partials/database-update-notice.php:6
+msgid "WPFM Database Update Notice"
+msgstr "WPFM數據庫更新通知"
+
+#: admin/partials/database-update-notice.php:10
+msgid ""
+"WooCommerce Product Feed Manager is getting better and now, has an updated "
+"data structure for it to run smoothly. Click on update now to get the latest "
+"data structure for WPFM. None of your data will be changed/removed, only "
+"WPFM data will be restructured for better outcome."
+msgstr ""
+"WooCommerce產品Feed Manager越來越好，現在，它具有更新的數據結構，可以平穩運行。 單擊立即更新以獲取WPFM的最新數據結構。 "
+"您的任何數據都不會更改/刪除，只有WPFM數據會被重組以獲得更好的結果。"
+
+#: admin/partials/database-update-notice.php:11
+msgid ""
+"The database update process runs in the background and may take a little "
+"while, so please be patient."
+msgstr "數據庫更新過程在後台運行，可能需要一段時間，因此請耐心等待。"
+
+#: admin/partials/database-update-notice.php:17
+msgid "Update WPFM Database"
+msgstr "更新WPFM數據庫"
+
+#: admin/partials/database-update-running-notice.php:6
+msgid "Update in progress…."
+msgstr "正在更新…。"
+
+#: admin/partials/database-update-running-notice.php:10
+msgid "It will run in the background while you can continue browsing."
+msgstr "它會在後台運行，而您可以繼續瀏覽。"
+
+#: admin/partials/feed-config-metabox-display-filter.php:36
+msgid "If"
+msgstr "如果"
+
+#: admin/partials/feed-config-metabox-display-filter.php:37
+msgid "Condition"
+msgstr "健康）狀況"
+
+#: admin/partials/feed-config-metabox-display-filter.php:38
+#: admin/partials/feed-config-metabox-display.php:29
+msgid "Value"
+msgstr "值"
+
+#: admin/partials/feed-config-metabox-display-filter.php:39
+msgid "Then"
+msgstr "然後"
+
+#: admin/partials/feed-config-metabox-display.php:27
+msgid "Attributes"
+msgstr "屬性"
+
+#: admin/partials/feed-config-metabox-display.php:28
+msgid "Type"
+msgstr "類型"
+
+#: admin/partials/feed-config-metabox-display.php:30
+msgid "Prefix"
+msgstr "字首"
+
+#: admin/partials/feed-config-metabox-display.php:31
+msgid "Suffix"
+msgstr "後綴"
+
+#: admin/partials/feed-config-metabox-display.php:32
+msgid "Output Sanitization"
+msgstr "輸出消毒"
+
+#: admin/partials/feed-config-metabox-display.php:33
+msgid "Output Limit"
+msgstr "輸出極限"
+
+#: admin/partials/merchant_settings.php:38
+msgid "Configure your google merchant"
+msgstr "配置您的Google商人"
+
+#: admin/partials/merchant_settings.php:44
+msgid "Client ID#: "
+msgstr "客户ID＃："
+
+#: admin/partials/merchant_settings.php:48
+msgid "Client Secret: "
+msgstr "客户秘密："
+
+#: admin/partials/merchant_settings.php:52
+msgid "Merchant ID# : "
+msgstr "商家ID＃："
+
+#: admin/partials/merchant_settings.php:57
+msgid "Redirect URL"
+msgstr "重定向网址"
+
+#: admin/partials/merchant_settings.php:60
+msgid "Reset"
+msgstr "重启"
+
+#: admin/partials/merchant_settings.php:64
+msgid "Submit"
+msgstr ""
+"\n"
+"提交"
+
+#: admin/partials/on_boarding.php:50 admin/partials/on_boarding.php:204
+msgid "Go Premium"
+msgstr "去高級"
+
+#: admin/partials/on_boarding.php:52
+#, php-format
+msgid ""
+"Purchase our <a href=\"%s\" target=\"_blank\" title=\"Click to Upgrade Pro\">"
+"premium version</a> to unlock these pro components!"
+msgstr ""
+"購買我們的<a href=\"%s\"target=\"_blank\"title=\"點擊升級Pro\">高級版本</a>即可解鎖這些專業組件！"
+
+#: admin/partials/on_boarding.php:56
+msgid "ok"
+msgstr "好"
+
+#: admin/partials/on_boarding.php:91
+msgid "General"
+msgstr "一般"
+
+#: admin/partials/on_boarding.php:115
+msgid "Merchants"
+msgstr "招商"
+
+#: admin/partials/on_boarding.php:158 admin/partials/on_boarding.php:1300
+msgid "Controls"
+msgstr "控制項"
+
+#: admin/partials/on_boarding.php:180
+msgid "Video Tutorials"
+msgstr "影片教學"
+
+#: admin/partials/on_boarding.php:200 admin/partials/on_boarding.php:1495
+msgid "System Status"
+msgstr "系統狀況"
+
+#: admin/partials/on_boarding.php:207
+msgid "Logs"
+msgstr "日誌"
+
+#: admin/partials/on_boarding.php:225
+msgid "Documentation"
+msgstr "文獻資料"
+
+#: admin/partials/on_boarding.php:230
+msgid ""
+"Before You start, you can check our Documentation to get familiar with "
+"WooCommerce Product Feed Manager."
+msgstr "在開始之前，您可以檢查我們的文檔以熟悉WooCommerce產品Feed管理器。"
+
+#: admin/partials/on_boarding.php:233
+msgid "View Documentation"
+msgstr "查看文件"
+
+#: admin/partials/on_boarding.php:247
+msgid ""
+"Can't find solution on with our documentation? Just Post a ticket on Support "
+"forum. We are to solve your issue."
+msgstr "在我們的文檔中找不到解決方案？ 只需在支持論壇上發布票證即可。 我們將為您解決問題。"
+
+#: admin/partials/on_boarding.php:250
+msgid "Post a Ticket"
+msgstr "發布票證"
+
+#: admin/partials/on_boarding.php:259
+msgid "Share Your Thoughts"
+msgstr "分享你的意見"
+
+#: admin/partials/on_boarding.php:264
+msgid ""
+"Your suggestions are valubale to us. It can help to make WPFM even better."
+msgstr "您的建議對我們很有價值。 它可以幫助使WPFM更好。"
+
+#: admin/partials/on_boarding.php:267
+msgid "Suggest"
+msgstr "建議"
+
+#: admin/partials/on_boarding.php:276
+msgid "Make WPFM Popular"
+msgstr "使WPFM受歡迎"
+
+#: admin/partials/on_boarding.php:281
+msgid ""
+"Your rating and feedback matters to us. If you are happy with WooCommerce "
+"Product Feed Manager give us a rating."
+msgstr "您的評分和反饋意見對我們很重要。 如果您對WooCommerce產品Feed經理滿意，請給我們評分。"
+
+#: admin/partials/on_boarding.php:284
+msgid "Rate Us!"
+msgstr "評價我們！"
+
+#: admin/partials/on_boarding.php:293
+msgid "Share On"
+msgstr "分享"
+
+#: admin/partials/on_boarding.php:298
+msgid "Share on Facebook"
+msgstr "在臉書上分享"
+
+#: admin/partials/on_boarding.php:299
+msgid "Share on Twitter"
+msgstr "分享到Twitter"
+
+#: admin/partials/on_boarding.php:300
+msgid "Share on Google+"
+msgstr "在Google+上分享"
+
+#: admin/partials/on_boarding.php:301
+msgid "Share on LinkedIn"
+msgstr "在領英上分享"
+
+#: admin/partials/on_boarding.php:313 admin/partials/on_boarding.php:1620
+msgid "Why upgrade to Pro?"
+msgstr "為什麼要升級到專業版？"
+
+#: admin/partials/on_boarding.php:315 admin/partials/on_boarding.php:1622
+msgid "Generate feed for unlimited products"
+msgstr "生成無限商品的供稿"
+
+#: admin/partials/on_boarding.php:316 admin/partials/on_boarding.php:1623
+msgid ""
+"Unique Product Identifiers Custom Fields (Brand, GTIN, MPN, UPC, EAN, JAN, "
+"ISBN, ITF14, Offer price, Offer effective date)"
+msgstr "獨特的產品標識符自定義字段（品牌，GTIN，MPN，UPC，EAN，JAN，ISBN，ITF14，要約價格，要約生效日期）"
+
+#: admin/partials/on_boarding.php:317 admin/partials/on_boarding.php:1624
+msgid ""
+"Detailed Product Attributes Custom Fields (Size, Pattern, Material, Age "
+"Group, Gender, Color)"
+msgstr "詳細的產品屬性自定義字段（大小，圖案，材料，年齡組，性別，顏色）"
+
+#: admin/partials/on_boarding.php:318 admin/partials/on_boarding.php:1625
+msgid "Ability To Exclude Tax From Structured Data Prices"
+msgstr "從結構化數據價格中排除稅收的能力"
+
+#: admin/partials/on_boarding.php:319 admin/partials/on_boarding.php:1626
+msgid "Option To Fix WooCommerce’s (Json-Ld) Structured Data Bug"
+msgstr "修復WooCommerce（Json-Ld）結構化數據錯誤的選項"
+
+#: admin/partials/on_boarding.php:320 admin/partials/on_boarding.php:1627
+msgid "Custom Batch configuration"
+msgstr "自定義批次配置"
+
+#: admin/partials/on_boarding.php:321 admin/partials/on_boarding.php:1628
+msgid ""
+"9 more pre-built templates (including eBay MIP, eBay Seller Center, Google "
+"Product Review, Google Re-marketing (DRM) and others)"
+msgstr "9個預建模板（包括eBay MIP，eBay賣方中心，Google產品評論，Google再營銷（DRM）等）"
+
+#: admin/partials/on_boarding.php:324
+msgid "Upgrade to Pro"
+msgstr "升級到專業版"
+
+#: admin/partials/on_boarding.php:334
+msgid "Available Merchants"
+msgstr "可用商人"
+
+#: admin/partials/on_boarding.php:1268 admin/partials/on_boarding.php:1361
+#: admin/partials/on_boarding.php:1386 admin/partials/on_boarding.php:1413
+#: admin/partials/on_boarding.php:1438 admin/partials/on_boarding.php:1466
+msgid "pro"
+msgstr "親"
+
+#: admin/partials/on_boarding.php:1303
+msgid "Product(s) per batch"
+msgstr "每批次產品"
+
+#: admin/partials/on_boarding.php:1313
+msgid "Clear batch"
+msgstr "清除批次"
+
+#: admin/partials/on_boarding.php:1319
+msgid "Enable Facebook Pixel"
+msgstr "啟用Facebook Pixel"
+
+#: admin/partials/on_boarding.php:1335
+msgid "Enable log"
+msgstr "啟用日誌"
+
+#: admin/partials/on_boarding.php:1349
+msgid "Facebook Pixel id"
+msgstr "Facebook像素編號"
+
+#: admin/partials/on_boarding.php:1365
+msgid "Add custom fields for Amazon"
+msgstr "為亞馬遜添加自定義字段"
+
+#: admin/partials/on_boarding.php:1391
+msgid "Exclude TAX from structured data prices"
+msgstr "從結構化數據價格中排除稅收"
+
+#: admin/partials/on_boarding.php:1417
+msgid ""
+"Add Unique Product Identifiers ( Brand, GTIN, MPN, UPC, EAN, JAN, ISBN, "
+"ITF14, Offer price, Offer effective date ) to product"
+msgstr "在產品中添加唯一的產品標識符（品牌，GTIN，MPN，UPC，EAN，JAN，ISBN，ITF14，要約價格，要約生效日期）"
+
+#: admin/partials/on_boarding.php:1443
+msgid ""
+"Increase the number of products that will be approved in Google's Merchant "
+"Center:\n"
+"                                           This option will fix "
+"WooCommerce's (JSON-LD) structured data bug and add extra structured data "
+"elements to your pages"
+msgstr ""
+"增加將在Google Merchant Center中批准的產品數量：\n"
+"                                            此選項將修復WooCommerce的（JSON-"
+"LD）結構化數據錯誤，並向您的頁面添加額外的結構化數據元素"
+
+#: admin/partials/on_boarding.php:1470
+msgid ""
+"Add Detailed Product Attributes ( Size, Color, Pattern, Material, Age group, "
+"Gender, Additional info ) to product"
+msgstr "將詳細的產品屬性（尺寸，顏色，圖案，材料，年齡段，性別，其他信息）添加到產品"
+
+#: admin/partials/on_boarding.php:1525
+msgid "PHP version:"
+msgstr "PHP版本："
+
+#: admin/partials/on_boarding.php:1531
+#, php-format
+msgid ""
+"%1$s - We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr "我們建議使用PHP 7.2或更高版本，以提高性能和安全性。"
+
+#: admin/partials/on_boarding.php:1537
+msgid "WordPress version:"
+msgstr "WordPress版本："
+
+#: admin/partials/on_boarding.php:1543
+#, php-format
+msgid "%1$s - WP version above 4 is required. "
+msgstr "需要4以上的WP版本。"
+
+#: admin/partials/on_boarding.php:1549
+msgid "WooCommerce Version:"
+msgstr "WooCommerce版本："
+
+#: admin/partials/on_boarding.php:1555
+#, php-format
+msgid "%1$s - WC version above 4 is required. "
+msgstr "需要WC版本4以上。"
+
+#: admin/partials/on_boarding.php:1561
+msgid "Memory:"
+msgstr "記憶："
+
+#: admin/partials/on_boarding.php:1567
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "我們建議將內存至少設置為64MB。 看到："
+
+#: admin/partials/on_boarding.php:1567
+msgid "Increasing memory allocated to PHP"
+msgstr "增加分配給PHP的內存"
+
+#: admin/partials/on_boarding.php:1573
+msgid "Upload Limit:"
+msgstr "上傳限制："
+
+#: admin/partials/on_boarding.php:1579
+#, php-format
+msgid "%1$s - We recommend upload limit to at least 64MB."
+msgstr "我們建議上傳限制為至少64MB。"
+
+#: admin/partials/on_boarding.php:1585
+msgid "WP Cron"
+msgstr "WP Cron"
+
+#: admin/partials/on_boarding.php:1597
+msgid "Product Feed Directory Writable"
+msgstr "產品Feed目錄可寫"
+
+#: admin/partials/on_boarding.php:1603
+#, php-format
+msgid "It is required to make feed directory writable. %1$s"
+msgstr "必須使提要目錄可寫。"
+
+#: admin/partials/on_boarding.php:1630
+msgid "Get Premium Version"
+msgstr "獲取高級版"
+
+#: admin/partials/on_boarding.php:1653
+msgid "View log"
+msgstr "查看日誌"
+
+#: admin/partials/on_boarding.php:1657
+msgid "Copy log"
+msgstr "複製日誌"
+
+#: admin/partials/progress-bar.php:27
+msgid "Your feed is generating"
+msgstr "您的供稿正在生成"
+
+#: admin/partials/wpmf-black-friday-notice.php:16
+msgid "Upgrade to pro with a"
+msgstr "升級到專業版"
+
+#: admin/partials/wpmf-black-friday-notice.php:17
+msgid "Huge Black Friday Discount"
+msgstr "巨大的黑色星期五折扣"
+
+#: admin/partials/wpmf-black-friday-notice.php:18
+msgid "Generate ultimate product feed in minutes."
+msgstr "在幾分鐘內生成最終的產品供稿。"
+
+#: admin/partials/wpmf-black-friday-notice.php:25
+msgid "Coupon:"
+msgstr "優惠券："
+
+#. Name of the plugin
+msgid "WooCommerce Product Feed Manager"
+msgstr "WooCommerce產品Feed經理"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Product Feed Manager helps you to sell more by uploading product "
+"feed to Google shopping, Amazon, Walmart, eBay, Nextag, Pricegrabber and "
+"acquiring real buyer."
+msgstr ""
+"WooCommerce產品提要管理器通過將產品提要上載到Google購物，亞馬遜，沃爾瑪，eBay，Nextag，Pricegrabber並吸引真正的買家來幫助您銷售更多商品。"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://rextheme.com"
+msgstr "https://rextheme.com"
+
+#. Author of the plugin
+msgid "RexTheme"
+msgstr "雷克斯主題"

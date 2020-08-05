@@ -1,0 +1,49 @@
+/**1.0.2.1 - 2020.07.07*/
+- Fixed: Convert price to float incorrectly because price uses comma as thousand separator
+- Optimized: Save image url to avoid downloading duplicated images
+- Added: Filter failed images by product
+
+/**1.0.2 - 2020.07.01*/
+- Fixed: Some simple products can not be added to cart when fulfilling AliExpress orders
+- Added: Option to import product with 1 variations as simple product
+- Added: Option to Disable background process
+- Updated: UX
+- Updated: Import product directly instead of using background processing
+
+/**1.0.1.2 - 2020.05.09*/
+- Fixed: Option Import ship from
+- Updated: Compatible with WC4.1
+
+/**1.0.1.1 - 2020.04.23*/
+- Fixed: Conflict using accordion with other plugins
+- Updated: Class support
+
+/**1.0.1 - 2020.04.10*/
+- Fixed: Can not save plugin settings
+- Fixed: Some attributes imported incorrectly
+
+/**1.0.0.5 - 2020.03.23*/
+- Updated: Compatible with WP 5.4 and WC4.0
+- Updated: Class support
+
+/**1.0.0.4 - 2020.02.25*/
+- Added: Ability to Import/Export plugin settings between sites
+
+/**1.0.0.3 - 2020.02.20*/
+- Fixed: Default variation not set when not importing the whole variations of a product
+- Updated: Change plugin menu title
+- Added: Error product images count
+
+/**1.0.0.2 - 2020.01.20*/
+- Fixed: Fatal error when activating plugin if WooCommerce is not active
+- Fixed: Warning message on import list page when regular price or sale price of price rules is empty
+- Updated: Move product html request to extension
+- Updated: Change Carrier company follow on AliExpress and set default cainiao URL in tracking URL
+- Updated: Update correct attribute name
+- Added: Cancel overriding product
+
+/**1.0.0.1 - 2019.12.30*/
+- Update: Extension link on Google Chrome Store
+
+/**1.0.0 - 2019.12.03**/
+~ The first released

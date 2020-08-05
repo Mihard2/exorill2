@@ -1,0 +1,74 @@
+ .pull-left{
+ 	float: left;
+ }
+
+.manage-menus p {
+	 margin: 0px 10px !important;
+    padding: 0 !important;
+
+}
+.inline-menu  li{
+	display: inline;
+	float: left;
+	position: relative;	
+	padding: 20px 25px; 
+	background: #FFF;
+	font-weight: bold;
+}
+.inline-menu  li.hasmega span{
+	font-weight: bold;
+	color: #0074a2;
+}
+
+.inline-menu  li:hover{
+	background: #000000;
+	cursor: hand; cursor: pointer;
+}
+.inline-menu  li:hover span{
+		color: #FFFFFF;
+}
+
+.inline-menu .menu-item-wrap{
+	display: none;
+	position: absolute;
+	left: 0;
+	top:71px;border: 4px solid #000000;
+}
+.inline-menu .menu-item-wrap:after, .inline-menu .menu-item-wrap:before{
+	bottom: 100%; left: 20%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; z-index: 10px;
+}
+.inline-menu .menu-item-wrap:after{
+	border-color: rgba(255, 255, 255, 0); border-bottom-color: #ffffff; border-width: 10px; margin-left: -10px;
+}
+.inline-menu .menu-item-wrap:before{
+	border-color: rgba(0, 0, 0, 0); border-bottom-color: #000000; border-width: 15px; margin-left: -15px;
+}
+.inline-menu  li.active .menu-item-wrap{
+	display: block;
+	padding:30px 20px;
+	width: 340px; 
+	background: #FFFFFF;
+}
+
+.inline-menu .menu-item-inner  > div{
+	display: block;
+	overflow: hidden;
+	clear: both;
+	padding: 8px 0
+}
+
+.inline-menu .menu-item-inner  label{
+	float: left;
+	width: 40%;
+}
+
+.inline-menu .menu-item-inner  em{
+	font-size: 10px;
+	font-weight: normal;
+	background:#0074a2;
+	color: #FFF; 
+	padding:2px 5px;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}

@@ -1,0 +1,134 @@
+@font-face {
+    font-family: "opal-icon";
+    src: url('../fonts/opal-icon.eot');
+    src: url('../fonts/opal-icon.eot?#iefix') format('eot'),
+    url('../fonts/opal-icon.woff2') format('woff2'),
+    url('../fonts/opal-icon.woff') format('woff'),
+    url('../fonts/opal-icon.ttf') format('truetype'),
+    url('../fonts/opal-icon.svg#opal-icon') format('svg');
+}
+
+@mixin opal-icon-styles {
+    font-family: "opal-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    // speak: none; // only necessary if not using the private unicode range (firstGlyph option)
+    text-decoration: none;
+    text-transform: none;
+}
+
+%opal-icon {
+    @include opal-icon-styles;
+}
+
+@function opal-icon-char($filename) {
+    $char: "";
+
+    @if $filename == arrow-left {
+    $char: "\E001";
+}
+    @if $filename == arrow-right {
+    $char: "\E002";
+}
+    @if $filename == bag {
+    $char: "\E003";
+}
+    @if $filename == checked {
+    $char: "\E004";
+}
+    @if $filename == cog {
+    $char: "\E005";
+}
+    @if $filename == compare {
+    $char: "\E006";
+}
+    @if $filename == heart {
+    $char: "\E007";
+}
+    @if $filename == minus {
+    $char: "\E008";
+}
+    @if $filename == plan {
+    $char: "\E009";
+}
+    @if $filename == plus {
+    $char: "\E00A";
+}
+    @if $filename == search {
+    $char: "\E00B";
+}
+    @if $filename == start {
+    $char: "\E00C";
+}
+    @if $filename == times {
+    $char: "\E00D";
+}
+    @if $filename == user {
+    $char: "\E00E";
+}
+    @if $filename == zoom-in {
+    $char: "\E00F";
+}
+
+@return $char;
+}
+
+@mixin opal-icon($filename, $insert: before, $extend: true) {
+&:#{$insert} {
+    @if $extend {
+        @extend %opal-icon;
+    } @else {
+        @include opal-icon-styles;
+    }
+    content: opal-icon-char($filename);
+}
+}
+
+.opal-icon-arrow-left {
+    @include opal-icon(arrow-left);
+}
+.opal-icon-arrow-right {
+    @include opal-icon(arrow-right);
+}
+.opal-icon-bag {
+    @include opal-icon(bag);
+}
+.opal-icon-checked {
+    @include opal-icon(checked);
+}
+.opal-icon-cog {
+    @include opal-icon(cog);
+}
+.opal-icon-compare {
+    @include opal-icon(compare);
+}
+.opal-icon-heart {
+    @include opal-icon(heart);
+}
+.opal-icon-minus {
+    @include opal-icon(minus);
+}
+.opal-icon-plan {
+    @include opal-icon(plan);
+}
+.opal-icon-plus {
+    @include opal-icon(plus);
+}
+.opal-icon-search {
+    @include opal-icon(search);
+}
+.opal-icon-start {
+    @include opal-icon(start);
+}
+.opal-icon-times {
+    @include opal-icon(times);
+}
+.opal-icon-user {
+    @include opal-icon(user);
+}
+.opal-icon-zoom-in {
+    @include opal-icon(zoom-in);
+}

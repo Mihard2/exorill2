@@ -1,0 +1,20 @@
+/**1.0.1.5 - 2020.06.29**/
+– Added: Add ajax variation threshold
+– Added: Add default Swatches profile
+– Added: Select multi value for global in the product edit page
+
+/**1.0.1.3 - 2020.05.09**/
+- Fixed: Display color type and image type for custom attribute
+
+/**1.0.1.2 - 2020.04.23**/
+- Update: support class
+
+/**1.0.1.1 - 2020.04.22**/
+- Fixed: Style 'Out of stock' swatches
+- Updated: Update readme
+
+/**1.0.1 - 2020.04.11/
+- Fixed: Horizontal style
+
+/*1.0.0 */
+- Release version 1.0.0

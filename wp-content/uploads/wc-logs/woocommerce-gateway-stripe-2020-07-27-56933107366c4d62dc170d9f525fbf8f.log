@@ -1,0 +1,21 @@
+2020-07-27T20:16:50+00:00 DEBUG 
+====Stripe Version: 4.5.0====
+====Start Log====
+Domain association file updated.
+====End Log====
+
+
+2020-07-27T20:16:51+00:00 DEBUG 
+====Stripe Version: 4.5.0====
+====Start Log====
+Error: Unable to verify domain - We attempted to retrieve the file at https://exorill.com/.well-known/apple-developer-merchantid-domain-association, but received a 404 status code from your server. Please check that the file is hosted correctly. Note that our servers most likely send different HTTP headers than your browser; you should check your logs to see why the request failed. For more information, see https://stripe.com/docs/stripe-js/elements/payment-request-button#verifying-your-domain-with-apple-pay.
+====End Log====
+
+
+2020-07-27T20:17:29+00:00 DEBUG 
+====Stripe Version: 4.5.0====
+====Start Log====
+Error: Unable to verify domain - We attempted to retrieve the file at https://exorill.com/.well-known/apple-developer-merchantid-domain-association, but received a 404 status code from your server. Please check that the file is hosted correctly. Note that our servers most likely send different HTTP headers than your browser; you should check your logs to see why the request failed. For more information, see https://stripe.com/docs/stripe-js/elements/payment-request-button#verifying-your-domain-with-apple-pay.
+====End Log====
+
+

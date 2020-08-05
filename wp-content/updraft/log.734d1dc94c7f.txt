@@ -1,0 +1,22 @@
+0000.001 (0) Opened log file at time: Sun, 02 Aug 2020 00:31:02 +0000 on https://exorill.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 88.6M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 311684.6 MB
+0000.014 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.021 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.025 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-08-02 00:31:02
+0000.028 (0) Semaphore (fd, wp_options) reset to 1
+0000.030 (0) Set semaphore last lock (fd) time to 2020-08-02 00:31:02
+0000.033 (0) Semaphore lock (fd) complete
+0000.042 (0) Backup run: resumption=0, nonce=734d1dc94c7f, file_nonce=734d1dc94c7f begun at=1596328262 (0s ago), job type=backup
+0000.047 (0) Scheduling a resumption (1) after 300 seconds (1596328562) in case this run gets aborted
+0000.061 (0) Checking if we have a zip executable available
+0000.068 (0) Creation of backups of directories: beginning
+0000.078 (0) Beginning creation of dump of plugins (split every: 100 MB)
+0301.126 (1) Opened log file at time: Sun, 02 Aug 2020 00:36:03 +0000 on https://exorill.com
+0301.129 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.2.19 (cgi-fcgi, Windows NT NS571478 10.0 build 17763 (Windows Server 2016) AMD64) MySQL: 8.0.19 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 73.9M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0301.132 (1) Free space on disk containing Updraft's temporary directory: 311680.9 MB
+0301.136 (1) Backup run: resumption=1, nonce=734d1dc94c7f, file_nonce=734d1dc94c7f begun at=1596328262 (301s ago), job type=backup
+0301.141 (1) Scheduling a resumption (2) after 300 seconds (1596328863) in case this run gets aborted
+0301.152 (1) Checking if we have a zip executable available
+0301.154 (1) Creation of backups of directories: had begun; will resume
+0301.160 (1) Beginning creation of dump of plugins (split every: 100 MB)

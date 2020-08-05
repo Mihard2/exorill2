@@ -1,0 +1,27 @@
+
+/*--------transition property-------*/
+@mixin transitions($property) {
+    -webkit-transition: $property;
+    -moz-transition: $property;
+    -ms-transition: $property;
+    -o-transition: $property;
+    transition: $property;
+}
+
+/*--------transform property-------*/
+@mixin transforms($property_value) {
+    -webkit-transform: $property_value;
+    -moz-transform: $property_value;
+    -ms-transform: $property_value;
+    -o-transform: $property_value;
+    transform: $property_value;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Ochair Product were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://exorill.com
+Data file = C:\www\exorill/wp-content/uploads/2020/07/demo-content-import-file_2020-07-27__20-03-04.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

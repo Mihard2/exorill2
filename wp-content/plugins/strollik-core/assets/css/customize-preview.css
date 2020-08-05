@@ -1,0 +1,39 @@
+.otf-customize-highlight,
+.otf-customize-highlight-body {
+  pointer-events: none;
+  z-index: 500;
+  border: 1px dashed #0085ba; }
+  .otf-customize-highlight .customize-partial-edit-shortcut button,
+  .otf-customize-highlight-body .customize-partial-edit-shortcut button {
+    left: 0; }
+  .otf-customize-highlight .button-customize-group,
+  .otf-customize-highlight-body .button-customize-group {
+    left: 0;
+    right: 0;
+    margin: -20px auto 0;
+    text-align: center; }
+    .otf-customize-highlight .button-customize-group .otf-button-customizer,
+    .otf-customize-highlight .button-customize-group .customize-partial-edit-shortcut,
+    .otf-customize-highlight-body .button-customize-group .otf-button-customizer,
+    .otf-customize-highlight-body .button-customize-group .customize-partial-edit-shortcut {
+      position: static;
+      float: none; }
+      .otf-customize-highlight .button-customize-group .otf-button-customizer.hide,
+      .otf-customize-highlight .button-customize-group .customize-partial-edit-shortcut.hide,
+      .otf-customize-highlight-body .button-customize-group .otf-button-customizer.hide,
+      .otf-customize-highlight-body .button-customize-group .customize-partial-edit-shortcut.hide {
+        display: none; }
+
+.otf-highlight-body .otf-customize-highlight-body {
+  display: block !important;
+  position: fixed;
+  border: 0;
+  top: 25px;
+  left: 3px;
+  width: 100%; }
+  .otf-highlight-body .otf-customize-highlight-body .button-customize-group {
+    text-align: left; }
+  .otf-highlight-body .otf-customize-highlight-body .otf-button-customizer {
+    display: none; }
+
+/*# sourceMappingURL=customize-preview.css.map */
