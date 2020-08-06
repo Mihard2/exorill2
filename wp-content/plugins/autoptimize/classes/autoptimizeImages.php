@@ -571,7 +571,7 @@ class autoptimizeImages
                     if ( strpos( $url, $this->get_imgopt_host() ) === 0 ) {
                         // if all img src have been replaced during srcset, we have to extract the
                         // origin url from the imgopt one to be able to set a lqip placeholder.
-                        $_url = substr( $url, strpos( $url, '/http' ) + 1 );
+                        $_url = substr( $url, strpos( $url, '/https' ) + 1 );
                     } else {
                         $_url = $url;
                     }
